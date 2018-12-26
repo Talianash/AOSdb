@@ -14,6 +14,10 @@ def index():
         title = 'The AOS database',
         form = form)
 
+@app.route('/about', methods = ['GET', 'POST'])
+def about():
+    return render_template('about.html')
+
 @app.route('/search', methods = ['GET', 'POST'])
 def search():
     form = SearchForm()
@@ -25,7 +29,7 @@ def search():
 
 from config import MAX_SEARCH_RESULTS
 
-@app.route('/search_results/<query>')
+@app.route('/search_results:<query>')
 def search_results(query):
     results = Organism.query.whoosh_search(query, MAX_SEARCH_RESULTS).all()
     return render_template('search_results.html',

@@ -1,0 +1,961 @@
+¤ Acetobacter Beijerinck 1898, genus. - Type species: Acetobacter aceti.
+
+¤ Acetobacter aceti (Pasteur 1864) Beijerinck 1898, species. - Type strain: NCIB 8621.
+
+¤ Acetobacter aceti subsp. aceti (Pasteur 1864) De Ley and Frateur 1974, subspecies. - Type strain: NCIB 8621.
+
+¤ Acetobacter aceti subsp. liquefaciens (Asai 1935) De Ley and Frateur 1974, subspecies. - Type strain: IAM 1834.
+
+¤ Acetobacter aceti subsp. orleanensis (Henneberg 1906) De Ley and Frateur 1974, subspecies. - Type strain: ATCC 12876.
+
+¤ Acetobacter aceti subsp. xylinus (Brown 1886) De Ley and Frateur 1974, subspecies. - Type strain: ATCC 23767. 
+Note: The original spelling, Acetobacter aceti subsp. xylinum (sic), has been corrected on page 108 of the International Code of Nomenclature of Bacteria (1990 Revision). See also: Judicial Opinion 3 and Rule 12c (1).
+
+¤ Acetobacter pasteurianus (Hansen 1879) Beijerinck and Folpmers 1916, species. - Type strain: LMD 22.1.
+
+¤ Acetobacter pasteurianus subsp. ascendens (Henneberg 1898) De Ley and Frateur 1974, subspecies. - Type strain: LMD 51.1.
+
+¤ Acetobacter pasteurianus subsp. estunensis (Carr 1958) De Ley and Frateur 1974, subspecies. - Type strain: ATCC 23753.
+
+¤ Acetobacter pasteurianus subsp. lovaniensis (Frateur 1950) De Ley and Frateur 1974, subspecies. - Type strain: ATCC 12875.
+
+¤ Acetobacter pasteurianus subsp. paradoxus (Frateur 1950) De Ley and Frateur 1974, subspecies. - Type strain: LMD 53.6.
+
+¤ Acetobacter pasteurianus subsp. pasteurianus (Hansen 1879) De Ley and Frateur 1974, subspecies. - Type strain: LMD 22.1.
+
+¤ Acetobacter peroxydans Visser't Hooft 1925, species. - Type strain: ATCC 12874.
+
+¤ Acetobactereae Pribram 1929, tribus. - Type genus: Acetobacter.
+
+¤ Acetobacterium Balch et al. 1977, genus. - Type species: Acetobacterium woodii.
+
+¤ Acetobacterium woodii Balch et al. 1977, species. - Type strain: ATCC 29683.
+
+¤ Acholeplasma Edward and Freundt 1970, genus. - Type species: Acholeplasma laidlawii.
+
+¤ Acholeplasma axanthum Tully and Razin 1970, species. - Type strain: ATCC 25176.
+
+¤ Acholeplasma equifetale Kirchoff 1974, species. - Type strain: ATCC 29724.
+
+¤ Acholeplasma granularum (Switzer 1964) Edward and Freundt 1970, species. - Type strain: ATCC 19168.
+
+¤ Acholeplasma hippikon Kirchoff 1974, species. - Type strain: ATCC 29725.
+
+¤ Acholeplasma laidlawii (Sabin 1941) Edward and Freundt 1970, species. - Type strain: ATCC 23206. 
+Note: On the Approved Lists of Bacterial Names, and on the Approved Lists of Bacterial Names (Amended Edition), this taxon is incorrectly cited as Acholeplasma laidlawii (Freundt 1955 [sic]) Edward and Freundt 1970. - Reference: TULLY (J.G.): Genus I. Acholeplasma Edward and Freundt 1970, 1AL. In: N.R. KRIEG and J.G. HOLT (editors), Bergey's Manual of Systematic Bacteriology, vol. 1, The Williams & Wilkins Co, Baltimore, 1984, p. 775-781.
+
+¤ Acholeplasma modicum Leach 1973, species. - Type strain: ATCC 29102.
+
+¤ Acholeplasma oculi Al-Aubaidi et al. 1973, species. - Type strain: ATCC 27350.
+
+¤ Acholeplasmataceae Edward and Freundt 1970, familia. - Type genus: Acholeplasma.
+
+¤ Achromatiaceae Massart 1901, familia. - Type genus: Achromatium.
+
+¤ Achromatium Schewiakoff 1893, genus. - Type species: Achromatium oxaliferum.
+
+¤ Achromatium oxaliferum Schewiakoff 1893, species. - Type strain: no culture isolated.
+
+¤ Acidaminococcus Rogosa 1969, genus. - Type species: Acidaminococcus fermentans.
+
+¤ Acidaminococcus fermentans Rogosa 1969, species. - Type strain: ATCC 25085.
+
+¤ Acinetobacter Brisou and Prévot 1954, genus. - Type species: Acinetobacter calcoaceticus.
+
+¤ Acinetobacter calcoaceticus (Beijerinck 1911) Baumann et al. 1968, species. - Type strain: ATCC 23055.
+
+¤ Acinetobacter lwoffii (Audureau 1940) Brisou and Prévot 1954, species. - Type strain: ATCC 15309.
+
+¤ Actinobacillus Brumpt 1910, genus. - Type species: Actinobacillus lignieresii.
+
+¤ Actinobacillus actinomycetemcomitans (Klinger 1912) Topley and Wilson 1929, species. - Type strain: NCTC 9710.
+
+¤ Actinobacillus capsulatus Arseculeratne 1962, species. - Type strain: Frederiksen P243.
+
+¤ Actinobacillus equuli (van Straaten 1918) Haupt 1934, species. - Type strain: ATCC 19392.
+
+¤ Actinobacillus lignieresii Brumpt 1910, species. - Type strain: NCTC 4189.
+
+¤ Actinobacillus suis van Dorssen and Jaartsveld 1962, species. - Type strain: CCM 5586.
+
+¤ Actinomadura Lechevalier and Lechevalier 1968, genus. - Type species: Actinomadura madurae.
+
+¤ Actinomadura africana Preobrazhenskaya and Sveshnikova 1974, species. - Type strain: INA 1839.
+
+¤ Actinomadura aurantiaca Lavrova and Preobrazhenskaya 1975, species. - Type strain: INA 1933.
+
+¤ Actinomadura carminata Gauze et al. 1973, species. - Type strain: INA 4281.
+
+¤ Actinomadura citrea Lavrova et al. 1972, species. - Type strain: ATCC 27887.
+
+¤ Actinomadura coerulea Preobrazhenskaya et al. 1975, species. - Type strain: INA 765.
+
+¤ Actinomadura coeruleofusca Preobrazhenskaya and Sveshnikova 1974, species. - Type strain: INA 1335.
+
+¤ Actinomadura cremea Preobrazhenskaya et al. 1975, species. - Type strain: INA 292.
+
+¤ Actinomadura fastidiosa Soina et al. 1975, species. - Type strain: INMI 104.
+
+¤ Actinomadura flava Gauze et al. 1974, species. - Type strain: ATCC 29533.
+
+¤ Actinomadura helvata Nonomura and Ohara 1971, species. - Type strain: ATCC 27295.
+
+¤ Actinomadura livida Lavrova and Preobrazhenskaya 1975, species. - Type strain: INA 1678.
+
+¤ Actinomadura longispora Preobrazhenskaya and Sveshnikova 1974, species. - Type strain: INA 10222.
+
+¤ Actinomadura luteofluorescens (Shinobu 1962) Preobrazhenskaya et al. 1975, species. - Type strain: IFO 13057.
+
+¤ Actinomadura madurae (Vincent 1894) Lechevalier and Lechevalier 1968, species. - Type strain: NCTC 5654.
+
+¤ Actinomadura malachitica Lavrova et al. 1972, species. - Type strain: ATCC 27888.
+
+¤ Actinomadura pelletieri (Laveran 1906) Lechevalier and Lechevalier 1968, species. - Type strain: NCTC 4162.
+
+¤ Actinomadura pusilla Nonomura and Ohara 1971, species. - Type strain: ATCC 27296.
+
+¤ Actinomadura roseola Lavrova and Preobrazhenskaya 1975, species. - Type strain: INA 1671.
+
+¤ Actinomadura roseoviolacea Nonomura and Ohara 1971, species. - Type strain: ATCC 27297.
+
+¤ Actinomadura rubra (Sveshnikova et al. 1969) Meyer and Sveshnikova 1974, species. - Type strain: ATCC 27031.
+
+¤ Actinomadura salmonea Preobrazhenskaya et al. 1975, species. - Type strain: INA 2488.
+
+¤ Actinomadura spadix Nonomura and Ohara 1971, species. - Type strain: ATCC 27298.
+
+¤ Actinomadura verrucosospora Nonomura and Ohara 1971, species. - Type strain: ATCC 27299.
+
+¤ Actinomadura vinacea Lavrova and Preobrazhenskaya 1975, species. - Type strain: INA 1682.
+
+¤ Actinomyces Harz 1877, genus. - Type species: Actinomyces bovis.
+
+¤ Actinomyces bovis Harz 1877, species. - Type strain: ATCC 13683.
+
+¤ Actinomyces humiferus Gledhill and Casida 1969, species. - Type strain: ATCC 25174.
+
+¤ Actinomyces israelii (Kruse 1896) Lachner-Sandoval 1898, species. - Type strain: ATCC 12102.
+
+¤ Actinomyces naeslundii Thompson and Lovestedt 1951, species. - Type strain: ATCC 12104.
+
+¤ Actinomyces odontolyticus Batty 1958, species. - Type strain: ATCC 17929.
+
+¤ Actinomyces viscosus (Howell et al. 1965) Georg et al. 1969, species. - Type strain: ATCC 15987.
+
+¤ Actinomycetaceae Buchanan 1918, familia. - Type genus: Actinomyces.
+
+¤ Actinomycetales Buchanan 1917, ordo. - Type genus: Actinomyces.
+
+¤ Actinomycetes Krasil'nikov 1949, classis. - Type order: not given. 
+Note: According to Rules 15, 22 and 27(3), the class Actinomycetes is illegitimate because it was proposed without the designation of a nomenclatural type. - Reference: EUZÉBY (J.P.) and TINDALL (B.J.): Nomenclatural type of orders: corrections necessary according to Rules 15 and 21a of the Bacteriological Code (1990 Revision), and designation of appropriate nomenclatural types of classes and subclasses. Request for an Opinion. Int. J. Syst. Evol. Microbiol. 2001, 51, 725-727.
+
+¤ Actinoplanaceae Couch 1955, familia. - Type genus: Actinoplanes.
+
+¤ Actinoplanes Couch 1950, genus. - Type species: Actinoplanes philippinensis.
+
+¤ Actinoplanes armeniacus Kalakoutskii and Kusnetsov 1964, species. - Type strain: ATCC 15676.
+
+¤ Actinoplanes brasiliensis Thiemann et al. 1969, species. - Type strain: ATCC 25844.
+
+¤ Actinoplanes deccanensis Parenti et al. 1975, species. - Type strain: ATCC 21983.
+
+¤ Actinoplanes ferrugineus Palleroni 1979, species. - Type strain: ATCC 29868. 
+Note: On the Approved Lists of Bacterial Names, this nomenclatural name is incorrectly cited as Actinoplanes ferrugineus Palleroni 1978 (sic). - Reference: HILL (L.R.), SKERMAN (V.B.D.) and SNEATH (P.H.A.): Corrigenda to the Approved Lists of Bacterial Names edited for the International Committee on Systematic Bacteriology. Int. J. Syst. Bacteriol., 1984, 34, 508-511.
+
+¤ Actinoplanes italicus Beretta 1973, species. - Type strain: ATCC 27366.
+
+¤ Actinoplanes missouriensis Couch 1963, species. - Type strain: ATCC 14538.
+
+¤ Actinoplanes philippinensis Couch 1950, species. - Type strain: ATCC 12427.
+
+¤ Actinoplanes rectilineatus Lechevalier and Lechevalier 1975, species. - Type strain: ATCC 29234.
+
+¤ Actinoplanes utahensis Couch 1963, species. - Type strain: ATCC 14539.
+
+¤ Actinopolyspora Gochnauer et al. 1975, genus. - Type species: Actinopolyspora halophila.
+
+¤ Actinopolyspora halophila Gochnauer et al. 1975, species. - Type strain: ATCC 27976.
+
+¤ Actinopycnidium Krasil'nikov 1962, genus. - Type species: Actinopycnidium caeruleum.
+
+¤ Actinopycnidium caeruleum Krasil'nikov 1962, species. - Type strain: ATCC 15719.
+
+¤ Actinosporangium Krasil'nikov and Yuan 1961, genus. - Type species: Actinosporangium violaceum.
+
+¤ Actinosporangium violaceum Krasil'nikov and Yuan 1961, species. - Type strain: ATCC 15813.
+
+¤ Actinosynnema Hasegawa et al. 1978, genus. - Type species: Actinosynnema mirum.
+
+¤ Actinosynnema mirum Hasegawa et al. 1978, species. - Type strain: IMRU 3971.
+
+¤ Aegyptianella Carpano 1929, genus. - Type species: Aegyptianella pullorum.
+
+¤ Aegyptianella pullorum Carpano 1929, species. - Type strain: no culture isolated.
+
+¤ Aerococcus Williams et al. 1953, genus. - Type species: Aerococcus viridans.
+
+¤ Aerococcus viridans Williams et al. 1953, species. - Type strain: NCTC 8251.
+
+¤ Aeromonas Stanier 1943, genus. - Type species: Aeromonas hydrophila. 
+Note: On the Approved Lists of Bacterial Names and on the amended edition of the Approved Lists of Bacterial Names, in contravention of the Judicial Opinion 48, this nomenclatural name is incorrectly cited as Aeromonas Kluyver and van Niel 1936 (sic). - References: 1 LAPAGE (S.P.), SNEATH (P.H.A.), LESSEL (E.F.), SKERMAN (V.B.D.), SEELIGER (H.P.R.) and CLARK (W.A.): International code of nomenclature of bacteria (1990 revision), American Society for Microbiology, Washington, D.C., 1992, p. 105. 2 EUZÉBY (J.P.): Necessary corrections according to Judicial Opinions 16, 48 and 52. Int. J. Syst. Bacteriol., 1998, 48, 613.
+
+¤ Aeromonas hydrophila (Chester 1901) Stanier 1943, species. - Type strain: ATCC 7966.
+
+¤ Aeromonas hydrophila subsp. anaerogenes Schubert 1964, subspecies. - Type strain: ATCC 15467.
+
+¤ Aeromonas hydrophila subsp. hydrophila (Chester 1901) Schubert 1969, subspecies. - Type strain: ATCC 7966. 
+Note: The original authorship, (Chester 1901) Stanier 1943, was corrected according to the new Rule 40d.
+Reference: GARRITY (G.M.), LABEDA (D.P.) and OREN (A.): Judicial Commission of the International Committee on Systematics of Prokaryotes. XIIth International (IUMS) Congress of Bacteriology and Applied Microbiology. Minutes of the meetings, 3, 4 and 6 August 2008, Istanbul, Turkey. Int. J. Syst. Evol. Microbiol., 2011, 61, 2775-2780. 
+Original article in IJSEM Online
+
+¤ Aeromonas hydrophila subsp. proteolytica (Merkel et al. 1964) Schubert 1969, subspecies. - Type strain: ATCC 15338.
+
+¤ Aeromonas punctata (Zimmermann 1890) Snieszko 1957, species. - Type strain: ATCC 15468.
+
+¤ Aeromonas punctata subsp. caviae (Scherago 1936) Schubert 1964, subspecies. - Type strain: ATCC 15468.
+
+¤ Aeromonas punctata subsp. punctata (Zimmermann 1890) Schubert 1964, subspecies. - Type strain: ATCC 15468. 
+Note: The original authorship, (Zimmermann 1890) Snieszko 1957, was corrected according to the new Rule 40d.
+Reference: GARRITY (G.M.), LABEDA (D.P.) and OREN (A.): Judicial Commission of the International Committee on Systematics of Prokaryotes. XIIth International (IUMS) Congress of Bacteriology and Applied Microbiology. Minutes of the meetings, 3, 4 and 6 August 2008, Istanbul, Turkey. Int. J. Syst. Evol. Microbiol., 2011, 61, 2775-2780. 
+Original article in IJSEM Online
+
+¤ Aeromonas salmonicida (Lehmann and Neumann 1896) Griffin et al. 1953, species. - Type strain: NCMB 1102.
+
+¤ Aeromonas salmonicida subsp. achromogenes (Smith 1963) Schubert 1967, subspecies. - Type strain: NCMB 1110.
+
+¤ Aeromonas salmonicida subsp. masoucida Kimura 1969, subspecies. - Type strain: ATCC 27013.
+
+¤ Aeromonas salmonicida subsp. salmonicida (Lehmann and Neumann 1896) Schubert 1967, subspecies. - Type strain: NCMB 1102. 
+Note: The original authorship, (Lehmann and Neumann 1896) Griffin et al. 1953, was corrected according to the new Rule 40d.
+Reference: GARRITY (G.M.), LABEDA (D.P.) and OREN (A.): Judicial Commission of the International Committee on Systematics of Prokaryotes. XIIth International (IUMS) Congress of Bacteriology and Applied Microbiology. Minutes of the meetings, 3, 4 and 6 August 2008, Istanbul, Turkey. Int. J. Syst. Evol. Microbiol., 2011, 61, 2775-2780. 
+Original article in IJSEM Online
+
+¤ Agrobacterium Conn 1942, genus. - Type species: Agrobacterium tumefaciens.
+
+¤ Agrobacterium radiobacter (Beijerinck and van Delden 1902) Conn 1942, species. - Type strain: ATCC 19358.
+
+¤ Agrobacterium rhizogenes (Riker et al. 1930) Conn 1942, species. - Type strain: ATCC 11325.
+
+¤ Agrobacterium rubi (Hildebrand 1940) Starr and Weiss 1943, species. - Type strain: ATCC 13335.
+
+¤ Agrobacterium tumefaciens (Smith and Townsend 1907) Conn 1942, species. - Type strain: ATCC 23308.
+
+¤ Agromyces Gledhill and Casida 1969, genus. - Type species: Agromyces ramosus.
+
+¤ Agromyces ramosus Gledhill and Casida 1969, species. - Type strain: ATCC 25173.
+
+¤ Alcaligenes Castellani and Chalmers 1919, genus. - Type species: Alcaligenes faecalis.
+
+¤ Alcaligenes aestus Baumann et al. 1972, species. - Type strain: ATCC 27128.
+
+¤ Alcaligenes aquamarinus (ZoBell and Upham 1944) Hendrie et al. 1974, species. - Type strain: ATCC 14400.
+
+¤ Alcaligenes cupidus Baumann et al. 1972, species. - Type strain: ATCC 27124.
+
+¤ Alcaligenes eutrophus Davis 1969, species. - Type strain: ATCC 17697.
+
+¤ Alcaligenes faecalis Castellani and Chalmers 1919, species. - Type strain: ATCC 8750.
+
+¤ Alcaligenes latus Palleroni and Palleroni 1978, species. - Type strain: ATCC 29712.
+
+¤ Alcaligenes pacificus corrig. Baumann et al. 1972, species. - Type strain: ATCC 27122. 
+Note: The original spelling, Alcaligenes pacifus (sic), has been corrected by Hill et al. 1984. - Reference: HILL (L.R.), SKERMAN (V.B.D.) and SNEATH (P.H.A.): Corrigenda to the Approved Lists of Bacterial Names edited for the International Committee on Systematic Bacteriology. Int. J. Syst. Bacteriol., 1984, 34, 508-511.
+
+¤ Alcaligenes paradoxus Davis 1969, species. - Type strain: ATCC 17713.
+
+¤ Alcaligenes ruhlandii (Packer and Vishniac 1955) Aragno and Schlegel 1977, species. - Type strain: ATCC 15749.
+
+¤ Alcaligenes venustus Baumann et al. 1972, species. - Type strain: ATCC 27125.
+
+¤ Alteromonas Baumann et al. 1972, genus. - Type species: Alteromonas macleodii.
+
+¤ Alteromonas aurantia Gauthier and Breittmayer 1979, species. - Type strain: ATCC 33046.
+
+¤ Alteromonas citrea Gauthier 1977, species. - Type strain: ATCC 29719.
+
+¤ Alteromonas communis Baumann et al. 1972, species. - Type strain: ATCC 27118.
+
+¤ Alteromonas espejiana Chan et al. 1978, species. - Type strain: ATCC 29659.
+
+¤ Alteromonas haloplanktis (ZoBell and Upham 1944) Reichelt and Baumann 1973, species. - Type strain: ATCC 14393.
+
+¤ Alteromonas macleodii Baumann et al. 1972, species. - Type strain: ATCC 27126.
+
+¤ Alteromonas rubra Gauthier 1976, species. - Type strain: ATCC 29570.
+
+¤ Alteromonas undina Chan et al. 1978, species. - Type strain: ATCC 29660.
+
+¤ Alteromonas vaga Baumann et al. 1972, species. - Type strain: ATCC 27119.
+
+¤ Alysiella Langeron 1923, genus. - Type species: Alysiella filiformis.
+
+¤ Alysiella filiformis (Schmid 1922) Langeron 1923, species. - Type strain: ATCC 15532.
+
+¤ Amoebobacter Winogradsky 1888, genus. - Type species: Amoebobacter roseus.
+
+¤ Amoebobacter pendens (Molisch 1906) Pfennig and Trüper 1971, species. - Type strain: DSM 236.
+
+¤ Amoebobacter roseus Winogradsky 1888, species. - Type strain: DSM 235.
+
+¤ Amorphosporangium Couch 1963, genus. - Type species: Amorphosporangium auranticolor.
+
+¤ Amorphosporangium auranticolor Couch 1963, species. - Type strain: ATCC 15330.
+
+¤ Amorphosporangium globisporum Thiemann 1967, species. - Type strain: ATCC 23056.
+
+¤ Ampullariella Couch 1964, genus. - Type species: Ampullariella regularis.
+
+¤ Ampullariella campanulata (Couch 1963) Couch 1964, species. - Type strain: DSM 43148.
+
+¤ Ampullariella digitata (Couch 1963) Couch 1964, species. - Type strain: ATCC 15349.
+
+¤ Ampullariella lobata (Couch 1963) Couch 1964, species. - Type strain: ATCC 15350.
+
+¤ Ampullariella regularis (Couch 1963) Couch 1964, species. - Type strain: DSM 43151.
+
+¤ Anaerobiospirillum Davis et al. 1976, genus. - Type species: Anaerobiospirillum succiniciproducens.
+
+¤ Anaerobiospirillum succiniciproducens Davis et al. 1976, species. - Type strain: ATCC 29305.
+
+¤ Anaeroplasma Robinson et al. 1975, genus. - Type species: Anaeroplasma abactoclasticum.
+
+¤ Anaeroplasma abactoclasticum Robinson et al. 1975, species. - Type strain: ATCC 27879. 
+Note: The type strain is not available from the ATCC because it was impossible to revive the culture sent by the depositors. - Reference: TANG (J.): Personal communication (July 20, 2001).
+
+¤ Anaeroplasma bactoclasticum (Robinson and Hungate 1973) Robinson and Allison 1975, species. - Type strain: ATCC 27112. 
+Note: The type strain is not available from the ATCC because it was impossible to revive the culture sent by the depositors. - Reference: TANG (J.): Personal communication (July 20, 2001).
+
+¤ Anaerovibrio Hungate 1966, genus. - Type species: Anaerovibrio lipolyticus corrig.
+
+¤ Anaerovibrio lipolyticus corrig. Hungate 1966, species. - Type strain: VPI 7553. 
+Note: The original spelling of the specific epithet, lipolytica (sic) has been corrected by Strömpl et al. 1999. - Reference: STRÖMPL (C.), TINDALL (B.J.), JARVIS (G.N.), LÜNSDORF (H.), MOORE (E.R.B.) and HIPPE (H.): A re-evaluation of the taxonomy of the genus Anaerovibrio, with the reclassification of Anaerovibrio glycerini as Anaerosinus glycerini gen. nov., comb. nov., and Anaerovibrio burkinabensis as Anaeroarcus burkinensis [corrig.] gen. nov., comb. nov. Int. J. Syst. Bacteriol., 1999, 49, 1861-1872.
+
+¤ Anaplasma Theiler 1910, genus. - Type species: Anaplasma marginale.
+
+¤ Anaplasma marginale Theiler 1910, species. - Type strain: no culture isolated.
+
+¤ Anaplasma ovis Lestoquard 1924, species. - Type strain: no culture isolated.
+
+¤ Anaplasmataceae Philip 1957, familia. - Type genus: Anaplasma.
+
+¤ Ancalochloris Gorlenko and Lebedeva 1971, genus. - Type species: Ancalochloris perfilievii.
+
+¤ Ancalochloris perfilievii Gorlenko and Lebedeva 1971, species. - Type strain: no pure culture.
+
+¤ Ancalomicrobium Staley 1968, genus. - Type species: Ancalomicrobium adetum.
+
+¤ Ancalomicrobium adetum Staley 1968, species. - Type strain: ATCC 23632.
+
+¤ Anoxyphotobacteriae Gibbons and Murray 1978, subclassis. - Type order: Rhodospirillales.
+
+¤ Aquaspirillum Hylemon et al. 1973, genus. - Type species: Aquaspirillum serpens.
+
+¤ Aquaspirillum anulus (Williams and Rittenberg 1957) Hylemon et al. 1973, species. - Type strain: NCIB 9012.
+
+¤ Aquaspirillum aquaticum Hylemon et al. 1973, species. - Type strain: ATCC 11330.
+
+¤ Aquaspirillum autotrophicum Aragno and Schlegel 1978, species. - Type strain: DSM 732.
+
+¤ Aquaspirillum bengal Kumar et al. 1974, species. - Type strain: ATCC 27641.
+
+¤ Aquaspirillum delicatum (Leifson 1962) Hylemon et al. 1973, species. - Type strain: ATCC 14667.
+
+¤ Aquaspirillum dispar Hylemon et al. 1973, species. - Type strain: ATCC 27510.
+
+¤ Aquaspirillum fasciculus Strength et al. 1976, species. - Type strain: ATCC 27740.
+
+¤ Aquaspirillum giesbergeri (Williams and Rittenberg 1957) Hylemon et al. 1973, species. - Type strain: ATCC 11334.
+
+¤ Aquaspirillum gracile (Canale-Parola et al. 1966) Hylemon et al. 1973, species. - Type strain: ATCC 19624.
+
+¤ Aquaspirillum itersonii (Giesberger 1936) Hylemon et al. 1973, species. - Type strain: ATCC 12639.
+
+¤ Aquaspirillum itersonii subsp. itersonii (Giesberger 1936) Terasaki 1979, subspecies. - Type strain: ATCC 12639. 
+Note: The original authorship, (Giesberger 1936) Hylemon et al. 1973, was corrected according to the new Rule 40d.
+Reference: GARRITY (G.M.), LABEDA (D.P.) and OREN (A.): Judicial Commission of the International Committee on Systematics of Prokaryotes. XIIth International (IUMS) Congress of Bacteriology and Applied Microbiology. Minutes of the meetings, 3, 4 and 6 August 2008, Istanbul, Turkey. Int. J. Syst. Evol. Microbiol., 2011, 61, 2775-2780. 
+Original article in IJSEM Online
+
+¤ Aquaspirillum itersonii subsp. nipponicum (Terasaki 1973) Terasaki 1979, subspecies. - Type strain: IFO 13615.
+
+¤ Aquaspirillum metamorphum (Terasaki 1961) Hylemon et al. 1973, species. - Type strain: ATCC 15280.
+
+¤ Aquaspirillum peregrinum (Pretorius 1963) Hylemon et al. 1973, species. - Type strain: ATCC 15387.
+
+¤ Aquaspirillum peregrinum subsp. integrum (Terasaki 1973) Terasaki 1979, subspecies. - Type strain: IFO 13617.
+
+¤ Aquaspirillum peregrinum subsp. peregrinum (Pretorius 1963) Terasaki 1979, subspecies. - Type strain: ATCC 15387. 
+Note: The original authorship, (Pretorius 1963) Hylemon et al. 1973, was corrected according to the new Rule 40d.
+Reference: GARRITY (G.M.), LABEDA (D.P.) and OREN (A.): Judicial Commission of the International Committee on Systematics of Prokaryotes. XIIth International (IUMS) Congress of Bacteriology and Applied Microbiology. Minutes of the meetings, 3, 4 and 6 August 2008, Istanbul, Turkey. Int. J. Syst. Evol. Microbiol., 2011, 61, 2775-2780. 
+Original article in IJSEM Online
+
+¤ Aquaspirillum polymorphum (Williams and Rittenberg 1957) Hylemon et al. 1973, species. - Type strain: ATCC 11332.
+
+¤ Aquaspirillum psychrophilum (Terasaki 1973) Terasaki 1979, species. - Type strain: IFO 13611.
+
+¤ Aquaspirillum putridiconchylium (Terasaki 1961) Hylemon et al. 1973, species. - Type strain: ATCC 15279.
+
+¤ Aquaspirillum serpens (Muller 1786) Hylemon et al. 1973, species. - Type strain: ATCC 12638.
+
+¤ Aquaspirillum sinuosum (Williams and Rittenberg 1957) Hylemon et al. 1973, species. - Type strain: ATCC 9786.
+
+¤ Arachnia Pine and Georg 1969, genus. - Type species: Arachnia propionica.
+
+¤ Arachnia propionica (Buchanan and Pine 1962) Pine and Georg 1969, species. - Type strain: ATCC 14157.
+
+¤ Archangiaceae Jahn 1924, familia. - Type genus: Archangium.
+
+¤ Archangium Jahn 1924, genus. - Type species: Archangium gephyra.
+
+¤ Archangium gephyra Jahn 1924, species. - Type strain: ATCC 25201.
+
+¤ Arthrobacter Conn and Dimmick 1947, genus. - Type species: Arthrobacter globiformis.
+
+¤ Arthrobacter atrocyaneus Kuhn and Starr 1960, species. - Type strain: ATCC 13752.
+
+¤ Arthrobacter aurescens Phillips 1953, species. - Type strain: ATCC 13344.
+
+¤ Arthrobacter citreus Sacks 1954, species. - Type strain: ATCC 11624.
+
+¤ Arthrobacter crystallopoietes Ensign and Rittenberg 1963, species. - Type strain: ATCC 15481.
+
+¤ Arthrobacter duodecadis Lochhead 1958, species. - Type strain: ATCC 13347.
+
+¤ Arthrobacter flavescens Lochhead 1958, species. - Type strain: ATCC 13348.
+
+¤ Arthrobacter globiformis (Conn 1928) Conn and Dimmick 1947, species. - Type strain: ATCC 8010.
+
+¤ Arthrobacter histidinolovorans Adams 1954, species. - Type strain: ATCC 11442.
+
+¤ Arthrobacter mysorens Nand and Rao 1972, species. - Type strain: NCIB 10583.
+
+¤ Arthrobacter nicotianae Giovannozzi-Sermanni 1959, species. - Type strain: ATCC 15236.
+
+¤ Arthrobacter oxydans Sguros 1954, species. - Type strain: ATCC 14358.
+
+¤ Arthrobacter pascens Lochhead and Burton 1953, species. - Type strain: ATCC 13346.
+
+¤ Arthrobacter picolinophilus Tate and Ensign 1974, species. - Type strain: ATCC 27854.
+
+¤ Arthrobacter polychromogenes Schippers-Lammertse et al. 1963, species. - Type strain: ATCC 15216.
+
+¤ Arthrobacter radiotolerans Yoshinaka et al. 1973, species. - Type strain: IAM 12072.
+
+¤ Arthrobacter ramosus Jensen 1960, species. - Type strain: ATCC 13727.
+
+¤ Arthrobacter siderocapsulatus Dubinina and Zhdanov 1975, species. - Type strain: BKM-B N 1122. 
+Note: On the Approved Lists of Bacterial Names, this nomenclatural name is incorrectly cited as Arthrobacter siderocapsulatus Dubinin (sic) and Zhdanov 1975. - Reference: HILL (L.R.), SKERMAN (V.B.D.) and SNEATH (P.H.A.): Corrigenda to the Approved Lists of Bacterial Names edited for the International Committee on Systematic Bacteriology. Int. J. Syst. Bacteriol., 1984, 34, 508-511.
+
+¤ Arthrobacter simplex (Jensen 1934) Lochhead 1957, species. - Type strain: ATCC 6946.
+
+¤ Arthrobacter terregens Lochhead and Burton 1953, species. - Type strain: ATCC 13345.
+
+¤ Arthrobacter tumescens (Jensen 1934) Conn and Dimmick 1947, species. - Type strain: ATCC 6947.
+
+¤ Arthrobacter ureafaciens (Krebs and Eggleston 1939) Clark 1955, species. - Type strain: ATCC 7562.
+
+¤ Arthrobacter variabilis Muller 1961, species. - Type strain: ATCC 15753.
+
+¤ Arthrobacter viscosus Gasdorf et al. 1965, species. - Type strain: ATCC 19584.
+
+¤ Asticcacaulis Poindexter 1964, genus. - Type species: Asticcacaulis excentricus.
+
+¤ Asticcacaulis biprosthecium Pate et al. 1973, species. - Type strain: ATCC 27554. 
+Note: In the effective publication by Pate et al. 1973 [1] and in a paper by Poindexter 1989 [2], this nomenclatural name is cited as Asticcacaulis biprosthecum. - References: 1 PATE (J.L.), PORTER (J.S.) and JORDAN (T.L.): Asticcacaulis biprosthecum sp. nov. Life cycle, morphology and cultural characteristics. Antonie van Leeuwenhoek J. Microbiol. Serol., 1973, 39, 569-583. 2 POINDEXTER (J.S.): Genus Asticcacaulis Poindexter 1964, 282AL. In: J.T. STALEY, M.P. BRYANT, N. PFENNIG and J.G. HOLT (editors), Bergey's Manual of Systematic Bacteriology, 1989, vol. 3. The Williams & Wilkins Co., Baltimore, p. 1939-1942.
+
+¤ Asticcacaulis excentricus Poindexter 1964, species. - Type strain: ATCC 15261.
+
+¤ Azomonas Winogradsky 1938, genus. - Type species: Azomonas agilis.
+
+¤ Azomonas agilis (Beijerinck 1901) Winogradsky 1938, species. - Type strain: ATCC 7494.
+
+¤ Azomonas insignis (Derx 1951) Jensen 1955, species. - Type strain: UQM 1966.
+
+¤ Azospirillum Tarrand et al. 1979, genus. - Type species: Azospirillum lipoferum.
+
+¤ Azospirillum brasilense corrig. Tarrand et al. 1979, species. - Type strain: ATCC 29145. 
+Note: The original spelling of the specific epithet, brasiliense (sic), has been corrected by Hill et al. 1984. - Reference: HILL (L.R.), SKERMAN (V.B.D.) and SNEATH (P.H.A.): Corrigenda to the Approved Lists of Bacterial Names edited for the International Committee on Systematic Bacteriology. Int. J. Syst. Bacteriol., 1984, 34, 508-511.
+
+¤ Azospirillum lipoferum (Beijerinck 1925) Tarrand et al. 1979, species. - Type strain: ATCC 29707.
+
+¤ Azotobacter Beijerinck 1901, genus. - Type species: Azotobacter chroococcum.
+
+¤ Azotobacter beijerinckii Lipman 1904, species. - Type strain: ATCC 19360.
+
+¤ Azotobacter chroococcum Beijerinck 1901, species. - Type strain: ATCC 9043.
+
+¤ Azotobacter macrocytogenes Jensen 1955, species. - Type strain: ATCC 12335.
+
+¤ Azotobacter nigricans Krasil'nikov 1949, species. - Type strain: UQM 1967.
+
+¤ Azotobacter paspali Dobereiner 1966, species. - Type strain: ATCC 23833.
+
+¤ Azotobacter vinelandii Lipman 1903, species. - Type strain: ATCC 478.
+
+¤ Azotobacteraceae Pribram 1933, familia. - Type genus: Azotobacter.
+
+A - B - C - D - E - F - G - H - I - J - K - L- M - N - O - P - R - S - T - U - V - W - X - Y - Z
+
+B
+
+¤ Bacillaceae Fischer 1895, familia. - Type genus: Bacillus.
+
+¤ Bacillales Prévot 1953, ordo. - Type genus: Bacillus.
+
+¤ Bacillus Cohn 1872, genus. - Type species: Bacillus subtilis.
+
+¤ Bacillus acidocaldarius Darland and Brock 1971, species. - Type strain: ATCC 27009.
+
+¤ Bacillus alcalophilus Vedder 1934, species. - Type strain: ATCC 27647.
+
+¤ Bacillus alvei Cheshire and Cheyne 1885, species. - Type strain: ATCC 6344.
+
+¤ Bacillus anthracis Cohn 1872, species. - Type strain: ATCC 14578.
+
+¤ Bacillus badius Batchelor 1919, species. - Type strain: ATCC 14574.
+
+¤ Bacillus brevis Migula 1900, species. - Type strain: ATCC 8246.
+
+¤ Bacillus cereus Frankland and Frankland 1887, species. - Type strain: ATCC 14579.
+
+¤ Bacillus circulans Jordan 1890, species. - Type strain: ATCC 4513.
+
+¤ Bacillus coagulans Hammer 1915, species. - Type strain: ATCC 7050.
+
+¤ Bacillus fastidiosus den Dooren de Jong 1929, species. - Type strain: Delft LMD 29-14.
+
+¤ Bacillus firmus Bredemann and Werner 1933, species. - Type strain: ATCC 14575.
+
+¤ Bacillus globisporus Larkin and Stokes 1967, species. - Type strain: ATCC 23301.
+
+¤ Bacillus globisporus subsp. globisporus (Larkin and Stokes 1967) Rüger and Richter 1979, subspecies. - Type strain: ATCC 23301. 
+Note: The original authorship, Larkin and Stokes 1967, was corrected according to the new Rule 40d.
+Reference: GARRITY (G.M.), LABEDA (D.P.) and OREN (A.): Judicial Commission of the International Committee on Systematics of Prokaryotes. XIIth International (IUMS) Congress of Bacteriology and Applied Microbiology. Minutes of the meetings, 3, 4 and 6 August 2008, Istanbul, Turkey. Int. J. Syst. Evol. Microbiol., 2011, 61, 2775-2780. 
+Original article in IJSEM Online
+
+¤ Bacillus globisporus subsp. marinus Rüger and Richter 1979, subspecies. - Type strain: ATCC 29841.
+
+¤ Bacillus insolitus Larkin and Stokes 1967, species. - Type strain: ATCC 23299.
+
+¤ Bacillus larvae White 1906, species. - Type strain: ATCC 9545.
+
+¤ Bacillus laterosporus Laubach 1916, species. - Type strain: ATCC 64.
+
+¤ Bacillus lentimorbus Dutky 1940, species. - Type strain: ATCC 14707.
+
+¤ Bacillus lentus Gibson 1935, species. - Type strain: ATCC 10840.
+
+¤ Bacillus licheniformis (Weigmann 1898) Chester 1901, species. - Type strain: ATCC 14580.
+
+¤ Bacillus macerans Schardinger 1905, species. - Type strain: ATCC 8244.
+
+¤ Bacillus macquariensis Marshall and Ohye 1966, species. - Type strain: ATCC 23464.
+
+¤ Bacillus megaterium de Bary 1884, species. - Type strain: ATCC 14581.
+
+¤ Bacillus mycoides Flügge 1886, species. - Type strain: ATCC 6462.
+
+¤ Bacillus pantothenticus Proom and Knight 1950, species. - Type strain: ATCC 14576.
+
+¤ Bacillus pasteurii (Miquel 1889) Chester 1898, species. - Type strain: ATCC 11859.
+
+¤ Bacillus polymyxa (Prazmowski 1880) Mace 1889, species. - Type strain: ATCC 842.
+
+¤ Bacillus popilliae Dutky 1940, species. - Type strain: ATCC 14706.
+
+¤ Bacillus pumilus Meyer and Gottheil 1901, species. - Type strain: ATCC 7061.
+
+¤ Bacillus sphaericus Meyer and Neide 1904, species. - Type strain: ATCC 14577.
+
+¤ Bacillus stearothermophilus Donk 1920, species. - Type strain: ATCC 12980.
+
+¤ Bacillus subtilis (Ehrenberg 1835) Cohn 1872, species. - Type strain: ATCC 6051.
+
+¤ Bacillus thuringiensis Berliner 1915, species. - Type strain: ATCC 10792.
+
+¤ Bacteria Haeckel 1894, classis. - Type order: not given. 
+Note: According to Rules 15, 22 and 27(3), the class Bacteria is illegitimate because it was proposed without the designation of a nomenclatural type. - Reference: EUZÉBY (J.P.) and TINDALL (B.J.): Nomenclatural type of orders: corrections necessary according to Rules 15 and 21a of the Bacteriological Code (1990 Revision), and designation of appropriate nomenclatural types of classes and subclasses. Request for an Opinion. Int. J. Syst. Evol. Microbiol. 2001, 51, 725-727.
+
+¤ Bacterionema Gilmour et al. 1961, genus. - Type species: Bacterionema matruchotii.
+
+¤ Bacterionema matruchotii (Mendel 1919) Gilmour et al. 1961, species. - Type strain: ATCC 14266.
+
+¤ Bacteroidaceae Pribram 1933, familia. - Type genus: Bacteroides.
+
+¤ Bacteroideae Castellani and Chalmers 1919, tribus. - Type genus: Bacteroides.
+
+¤ Bacteroides Castellani and Chalmers 1919, genus. - Type species: Bacteroides fragilis.
+
+¤ Bacteroides amylophilus Hamlin and Hungate 1956, species. - Type strain: ATCC 29744.
+
+¤ Bacteroides asaccharolyticus (Holdeman and Moore 1970) Finegold and Barnes 1977, species. - Type strain: ATCC 25260.
+
+¤ Bacteroides bivius Holdeman and Johnson 1977, species. - Type strain: ATCC 29303.
+
+¤ Bacteroides capillosus (Tissier 1908) Kelly 1957, species. - Type strain: ATCC 29799.
+
+¤ Bacteroides coagulans Eggerth and Gagnon 1933, species. - Type strain: ATCC 29798.
+
+¤ Bacteroides disiens Holdeman and Johnson 1977, species. - Type strain: ATCC 29426.
+
+¤ Bacteroides distasonis Eggerth and Gagnon 1933, species. - Type strain: ATCC 8503.
+
+¤ Bacteroides eggerthii Holdeman and Moore 1974, species. - Type strain: ATCC 27754.
+
+¤ Bacteroides fragilis (Veillon and Zuber 1898) Castellani and Chalmers 1919, species. - Type strain: ATCC 25285.
+
+¤ Bacteroides furcosus (Veillon and Zuber 1898) Hauduroy et al. 1937, species. - Type strain: ATCC 25662.
+
+¤ Bacteroides hypermegas Harrison and Hansen 1963, species. - Type strain: ATCC 25560.
+
+¤ Bacteroides melaninogenicus (Oliver and Wherry 1921) Roy and Kelly 1939, species. - Type strain: ATCC 25845.
+
+¤ Bacteroides melaninogenicus subsp. intermedius Holdeman and Moore 1970, subspecies. - Type strain: ATCC 25611.
+
+¤ Bacteroides melaninogenicus subsp. melaninogenicus (Oliver and Wherry 1921) Holdeman and Moore 1970, subspecies. - Type strain: ATCC 25845.
+
+¤ Bacteroides microfusus Kaneuchi and Mitsuoka 1978, species. - Type strain: ATCC 29728.
+
+¤ Bacteroides multiacidus Mitsuoka et al. 1974, species. - Type strain: ATCC 27723.
+
+¤ Bacteroides nodosus (Beveridge 1941) Mraz 1963, species. - Type strain: ATCC 25549.
+
+¤ Bacteroides ochraceus (Prévot et al. 1956) Holdeman and Moore 1972, species. - Type strain: ATCC 27872. 
+Note: On the Approved Lists of Bacterial Names, and on the Approved Lists of Bacterial Names (Amended Edition), this nomenclatural name is incorrectly cited as Bacteroides ochraceus Prévot et al. 1956 (sic).
+
+¤ Bacteroides oralis Loesche et al. 1964, species. - Type strain: VPI D27B-24.
+
+¤ Bacteroides ovatus Eggerth and Gagnon 1933, species. - Type strain: ATCC 8483.
+
+¤ Bacteroides pneumosintes (Olitsky and Gates 1921) Holdeman and Moore 1970, species. - Type strain: ATCC 33048.
+
+¤ Bacteroides praeacutus (Tissier 1908) Holdeman and Moore 1970, species. - Type strain: ATCC 25539.
+
+¤ Bacteroides putredinis (Weinberg et al. 1937) Kelly 1957, species. - Type strain: ATCC 29800.
+
+¤ Bacteroides ruminicola Bryant et al. 1958, species. - Type strain: ATCC 19189.
+
+¤ Bacteroides ruminicola subsp. brevis Bryant et al. 1958, subspecies. - Type strain: ATCC 19188.
+
+¤ Bacteroides ruminicola subsp. ruminicola Bryant et al. 1958, subspecies. - Type strain: ATCC 19189.
+
+¤ Bacteroides splanchnicus Werner et al. 1975, species. - Type strain: ATCC 29572.
+
+¤ Bacteroides succinogenes Hungate 1950, species. - Type strain: ATCC 19169.
+
+¤ Bacteroides termitidis (Sebald 1962) Holdeman and Moore 1970, species. - Type strain: NCTC 11300.
+
+¤ Bacteroides thetaiotaomicron (Distaso 1912) Castellani and Chalmers 1919, species. - Type strain: ATCC 29148.
+
+¤ Bacteroides uniformis Eggerth and Gagnon 1933, species. - Type strain: ATCC 8492.
+
+¤ Bacteroides ureolyticus Jackson and Goodman 1978, species. - Type strain: NCTC 10941.
+
+¤ Bacteroides vulgatus Eggerth and Gagnon 1933, species. - Type strain: ATCC 8482.
+
+¤ Bactoderma Tepper and Korshunova 1973, genus. - Type species: Bactoderma alba.
+
+¤ Bactoderma alba Tepper and Korshunova 1973, species. - Type strain: no culture available.
+
+¤ Bactoderma rosea (Winogradsky and Winogradsky 1933) Tepper and Korshunova 1973, species. - Type strain: BKMW 1344.
+
+¤ Bartonella Strong et al. 1915, genus. - Type species: Bartonella bacilliformis.
+
+¤ Bartonella bacilliformis (Strong et al. 1913) Strong et al. 1915, species. - Type strain: no culture available.
+
+¤ Bartonellaceae Gieszczykiewicz 1939, familia. - Type genus: Bartonella.
+
+¤ Bdellovibrio Stolp and Starr 1963, genus. - Type species: Bdellovibrio bacteriovorus.
+
+¤ Bdellovibrio bacteriovorus Stolp and Starr 1963, species. - Type strain: NCIB 9529.
+
+¤ Bdellovibrio starrii Seidler et al. 1972, species. - Type strain: ATCC 15145.
+
+¤ Bdellovibrio stolpii Seidler et al. 1972, species. - Type strain: DSM 50722.
+
+¤ Beggiatoa Trevisan 1842, genus. - Type species: Beggiatoa alba.
+
+¤ Beggiatoa alba (Vaucher 1803) Trevisan 1845, species. - Type strain: LSU B18LD.
+
+¤ Beggiatoaceae Migula 1894, familia. - Type genus: Beggiatoa.
+
+¤ Beggiatoales Buchanan 1957, ordo. - Type genus: Beggiatoa.
+
+¤ Beijerinckia Derx 1950, genus. - Type species: Beijerinckia indica.
+
+¤ Beijerinckia derxii Tchan 1957, species. - Type strain: UQM 1968.
+
+¤ Beijerinckia fluminensis Dobereiner and Ruschel 1958, species. - Type strain: UQM 1685.
+
+¤ Beijerinckia indica (Starkey and De 1939) Derx 1950, species. - Type strain: ATCC 9039.
+
+¤ Beijerinckia mobilis Derx 1950, species. - Type strain: UQM 1969.
+
+¤ Beneckea Campbell 1957, genus. - Type species: Beneckea campbellii.
+
+¤ Beneckea alginolytica (Miyamoto et al. 1961) Baumann et al. 1971, species. - Type strain: ATCC 17749.
+
+¤ Beneckea campbellii Baumann et al. 1971, species. - Type strain: ATCC 25920.
+
+¤ Beneckea harveyi (Johnson and Shunk 1936) Reichelt and Baumann 1973 species. - Type strain: ATCC 14126.
+
+¤ Beneckea natriegens (Payne et al. 1961) Baumann et al. 1971, species. - Type strain: ATCC 14048.
+
+¤ Beneckea nigripulchritudo corrig. Baumann et al. 1971, species. - Type strain: ATCC 27043. 
+Note: The original spelling, Beneckea nigrapulchrituda (sic), has been corrected by Baumann et al. 1984. - Reference: BAUMANN (P.), FURNISS (A.L.) and LEE (J.V.): Genus I. Vibrio Pacini 1854, 411AL. In: N.R. KRIEG and J.G. HOLT (ed.) Bergey's Manual of Systematic Bacteriology, vol. 1, The Williams & Wilkins Co., Baltimore, 1984, p. 518-538.
+
+¤ Beneckea parahaemolytica (Fujino et al. 1951) Baumann et al. 1971, species. - Type strain: ATCC 17802. 
+Note: On the Approved Lists of Bacterial Names, this nomenclatural name is incorrectly cited as Beneckea parahaemolytica (Fujino et al. 1965 [sic]) Baumann et al. 1971. - Reference: HILL (L.R.), SKERMAN (V.B.D.) and SNEATH (P.H.A.): Corrigenda to the Approved Lists of Bacterial Names edited for the International Committee on Systematic Bacteriology. Int. J. Syst. Bacteriol., 1984, 34, 508-511.
+
+¤ Beneckea pelagia Baumann et al. 1971, species. - Type strain: ATCC 25916.
+
+¤ Beneckea splendida (Beijerinck 1900) Reichelt et al. 1979, species. - Type strain: NCMB 1.
+
+¤ Beneckea vulnifica Reichelt et al. 1979, species. - Type strain: ATCC 27562.
+
+¤ Bifidobacterium Orla-Jensen 1924, genus. - Type species: Bifidobacterium bifidum.
+
+¤ Bifidobacterium adolescentis Reuter 1963, species. - Type strain: ATCC 15703biovar a.
+
+¤ Bifidobacterium angulatum Scardovi and Crociani 1974, species. - Type strain: ATCC 27535.
+
+¤ Bifidobacterium animalis (Mitsuoka 1969) Scardovi and Trovatelli 1974, species. - Type strain: ATCC 25527.
+
+¤ Bifidobacterium asteroides Scardovi and Trovatelli 1969, species. - Type strain: ATCC 25910.
+
+¤ Bifidobacterium bifidum (Tissier 1900) Orla-Jensen 1924, species. - Type strain: Ti (Tissier) Anaerobe Collection, Institut Pasteur Lille.
+
+¤ Bifidobacterium boum Scardovi et al. 1979, species. - Type strain: ATCC 27917.
+
+¤ Bifidobacterium breve Reuter 1963, species. - Type strain: ATCC 15700.
+
+¤ Bifidobacterium catenulatum Scardovi and Crociani 1974, species. - Type strain: ATCC 27539.
+
+¤ Bifidobacterium choerinum Scardovi et al. 1979, species. - Type strain: ATCC 27686.
+
+¤ Bifidobacterium cuniculi Scardovi et al. 1979, species. - Type strain: ATCC 27916.
+
+¤ Bifidobacterium dentium Scardovi and Crociani 1974, species. - Type strain: ATCC 27534.
+
+¤ Bifidobacterium indicum Scardovi and Trovatelli 1969, species. - Type strain: ATCC 25912.
+
+¤ Bifidobacterium infantis Reuter 1963, species. - Type strain: ATCC 15697.
+
+¤ Bifidobacterium longum Reuter 1963, species. - Type strain: ATCC 15707.
+
+¤ Bifidobacterium magnum Scardovi and Zani 1974, species. - Type strain: ATCC 27540.
+
+¤ Bifidobacterium pseudocatenulatum Scardovi et al. 1979, species. - Type strain: ATCC 27919.
+
+¤ Bifidobacterium pseudolongum Mitsuoka 1969, species. - Type strain: ATCC 25526.
+
+¤ Bifidobacterium pullorum Trovatelli et al. 1974, species. - Type strain: ATCC 27685.
+
+¤ Bifidobacterium suis Matteuzzi et al. 1971, species. - Type strain: ATCC 27533.
+
+¤ Bifidobacterium thermophilum corrig. Mitsuoka 1969, species. - Type strain: ATCC 25525. 
+Note: The original spelling of the specific epithet, thermophilium (sic), has been corrected by Hill et al. 1984 [1]. This corrigendum has been omitted from the Approved Lists of Bacterial Names (Amended Edition) [2]. - References: 1 HILL (L.R.), SKERMAN (V.B.D.) and SNEATH (P.H.A.): Corrigenda to the Approved Lists of Bacterial Names edited for the International Committee on Systematic Bacteriology. Int. J. Syst. Bacteriol., 1984, 34, 508-511. 2 EUZÉBY (J.P.): Corrigenda to the Approved Lists of Bacterial Names and to the amended edition of the Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1997, 47, 1271-1272.
+
+¤ Blastobacter Zavarzin 1961, genus. - Type species: Blastobacter henricii.
+
+¤ Blastobacter henricii Zavarzin 1961, species. - Type strain: no culture isolated.
+
+¤ Blastococcus Ahrens and Moll 1970., genus. - Type species: Blastococcus aggregatus.
+
+¤ Blastococcus aggregatus Ahrens and Moll 1970, species. - Type strain: ATCC 25902.
+
+¤ Blattabacterium Hollande and Favre 1931, genus. - Type species: Blattabacterium cuenoti.
+
+¤ Blattabacterium cuenoti (Mercier 1906) Hollande and Favre 1931, species. - Type strain: no culture isolated.
+
+¤ Bordetella Moreno-Lopez 1952, genus. - Type species: Bordetella pertussis.
+
+¤ Bordetella bronchiseptica (Ferry 1912) Moreno-Lopez 1952, species. - Type strain: ATCC 19395.
+
+¤ Bordetella parapertussis (Eldering and Kendrick 1938) Moreno-Lopez 1952, species. - Type strain: NCTC 5952.
+
+¤ Bordetella pertussis (Bergey et al. 1923) Moreno-Lopez 1952, species. - Type strain: ATCC 9797.
+
+¤ Borrelia Swellengrebel 1907, genus. - Type species: Borrelia anserina.
+
+¤ Borrelia anserina (Sakharoff 1891) Bergey et al. 1925, species. - Type strain: no culture available.
+
+¤ Borrelia brasiliensis Davis 1952, species. - Type strain: no culture available.
+
+¤ Borrelia caucasica (Kandelaki 1945) Davis 1957, species. - Type strain: no culture available.
+
+¤ Borrelia crocidurae (Leger 1917) Davis 1957, species. - Type strain: no culture available.
+
+¤ Borrelia dugesii (Mazzotti 1949) Davis 1957, species. - Type strain: no culture available.
+
+¤ Borrelia duttonii (Novy and Knapp 1906) Bergey et al. 1925, species. - Type strain: no culture available. 
+Note: Viable cultures were obtained by Cutler et al. 1999. The strains were designated La, Ly, Lw, Ma and Ku. - Reference: CUTLER (S.J.), AKINTUNDE (C.O.K.), MOSS (J.), FUKUNAGA (M.), KURTENBACH (K.), TALBERT (A.), ZHANG (H.), WRIGHT (D.J.M.) and WARRELL (D.A.): Successful in vitro cultivation of Borrelia duttonii and its comparison with Borrelia recurrentis. Int. J. Syst. Bacteriol., 1999, 49, 1793-1799.
+
+¤ Borrelia graingeri (Heisch 1953) Davis 1957, species. - Type strain: no culture available.
+
+¤ Borrelia harveyi (Garnham 1947) Davis 1948, species. - Type strain: no culture available.
+
+¤ Borrelia hermsii (Davis 1942) Steinhaus 1946, species. - Type strain: no culture available. 
+Note: Viable cultures are now available (i.e. CIP 104209 = DSM 4682) but no type strain has been designated.
+
+¤ Borrelia hispanica (de Buen 1926) Steinhaus 1946, species. - Type strain: no culture available.
+
+¤ Borrelia latyschewii (Sofiev 1941) Davis 1948, species. - Type strain: no culture available.
+
+¤ Borrelia mazzottii Davis 1956, species. - Type strain: no culture available.
+
+¤ Borrelia parkeri (Davis 1942) Steinhaus 1946, species. - Type strain: no culture available.
+
+¤ Borrelia persica (Dschunkowsky 1913) Steinhaus 1946, species. - Type strain: no culture available.
+
+¤ Borrelia recurrentis (Lebert 1874) Bergey et al. 1925, species. - Type strain: no culture available.
+
+¤ Borrelia theileri (Laveran 1903) Bergey et al. 1925, species. - Type strain: no culture available.
+
+¤ Borrelia tillae Zumpt and Organ 1961, species. - Type strain: no culture available.
+
+¤ Borrelia turicatae (Brumpt 1933) Steinhaus 1946, species. - Type strain: no culture available.
+
+¤ Borrelia venezuelensis (Brumpt 1921) Brumpt 1922, species. - Type strain: no culture available.
+
+¤ Branhamella Catlin 1970, genus. - Type species: Branhamella catarrhalis.
+
+¤ Branhamella catarrhalis (Frosch and Kolle 1896) Catlin 1970, species. - Type strain: ATCC 25238.
+
+¤ Brevibacteriaceae Breed 1953, familia. - Type genus: Brevibacterium.
+
+¤ Brevibacterieae Prévot 1961, tribus. - Type genus: Brevibacterium.
+
+¤ Brevibacterium Breed 1953, genus. - Type species: Brevibacterium linens.
+
+¤ Brevibacterium acetylicum (Levine and Soppeland 1926) Breed 1957, species. - Type strain: ATCC 953.
+
+¤ Brevibacterium albidum Komagata and Iizuka 1964, species. - Type strain: ATCC 15831.
+
+¤ Brevibacterium ammoniagenes (Cooke and Keith 1927) Breed 1953, species. - Type strain: ATCC 6871.
+
+¤ Brevibacterium citreum Komagata and Iizuka 1964, species. - Type strain: ATCC 15828.
+
+¤ Brevibacterium divaricatum Su and Yamada 1960, species. - Type strain: ATCC 14020.
+
+¤ Brevibacterium fermentans Chatelain and Second 1966, species. - Type strain: CIP 66.11. 
+Note: In the Approved Lists of Bacterial Names, the type strain is erroneously cited as CIP 6611. - Reference: KUDO (T.): Personal communication (March 07, 2003).
+
+¤ Brevibacterium frigoritolerans Delaporte and Sasson 1967, species. - Type strain: ATCC 25097.
+
+¤ Brevibacterium halotolerans Delaporte and Sasson 1967, species. - Type strain: ATCC 25096.
+
+¤ Brevibacterium imperiale (Steinhaus 1941) Breed 1953, species. - Type strain: ATCC 8365.
+
+¤ Brevibacterium incertum (Steinhaus 1941) Breed 1953, species. - Type strain: ATCC 8363.
+
+¤ Brevibacterium linens (Wolff 1910) Breed 1953, species. - Type strain: ATCC 9172.
+
+¤ Brevibacterium liquefaciens Okabayashi and Masuo 1960, species. - Type strain: ATCC 14929.
+
+¤ Brevibacterium luteum Komagata and Iizuka 1964, species. - Type strain: ATCC 15830.
+
+¤ Brevibacteium lyticum Takayama et al. 1960, species. - Type strain: ATCC 15921.
+
+¤ Brevibacterium oxydans Chatelain and Second 1966, species. - Type strain: CIP 6612.
+
+¤ Brevibacterium protophormiae Lysenko 1959, species. - Type strain: ATCC 19271.
+
+¤ Brevibacterium pusillum Iizuka and Komagata 1965, species. - Type strain: ATCC 19096.
+
+¤ Brevibacterium saperdae Lysenko 1959, species. - Type strain: ATCC 19272.
+
+¤ Brevibacterium stationis (ZoBell and Upham 1944) Breed 1953, species. - Type strain: ATCC 14403.
+
+¤ Brevibacterium testaceum Komagata and Iizuka 1964, species. - Type strain: ATCC 15829.
+
+¤ Brevibacterium vitaeruminis corrig. (Bechdel et al. 1928) Breed 1957, species. - Type strain: ATCC 10234. 
+Note: The original spelling of the specific epithet, vitarumen (sic), has been corrected by Trüper and De' Clari 1997. - Reference: TRÜPER (H.G.) and DE' CLARI (L.): Taxonomic note: Necessary correction of specific epithets formed as substantives (nouns) "in apposition". Int. J. Syst. Bacteriol., 1997, 47, 908-909.
+
+¤ Brochothrix Sneath and Jones 1976, genus. - Type species: Brochothrix thermosphacta.
+
+¤ Brochothrix thermosphacta (McLean and Sulzbacher 1953) Sneath and Jones 1976, species. - Type strain: ATCC 11509.
+
+¤ Brucella Meyer and Shaw 1920, genus. - Type species: Brucella melitensis.
+
+¤ Brucella abortus (Schmidt 1901) Meyer and Shaw 1920, species. - Type strain: ATCC 23448.
+
+¤ Brucella canis Carmichael and Bruner 1968, species. - Type strain: ATCC 23365.
+
+¤ Brucella melitensis (Hughes 1893) Meyer and Shaw 1920, species. - Type strain: ATCC 23456.
+
+¤ Brucella neotomae Stoenner and Lackman 1957, species. - Type strain: ATCC 23459.
+
+¤ Brucella ovis Buddle 1956, species. - Type strain: ATCC 25840.
+
+¤ Brucella suis Huddleson 1929, species. - Type strain: ATCC 23444.
+
+¤ Brucellaceae Breed et al. 1957, familia. - Type genus: Brucella.
+
+¤ Brucelleae Murray 1948, tribus. - Type genus: Brucella.
+
+¤ Butyrivibrio Bryant and Small 1956, genus. - Type species: Butyrivibrio fibrisolvens.
+
+¤ Butyrivibrio crossotus Moore et al. 1976, species. - Type strain: VPI T9-40A.
+
+¤ Butyrivibrio fibrisolvens Bryant and Small 1956, species. - Type strain: ATCC 19171.
+
+A - B - C - D - E - F - G - H - I - J - K - L- M - N - O - P - R - S - T - U - V - W - X - Y - Z
+
+C
+
+¤ Calymmatobacterium Aragao and Vianna 1913, genus. - Type species: Calymmatobacterium granulomatis.
+
+¤ Calymmatobacterium granulomatis Aragao and Vianna 1913, species. - Type strain: no strain extant.
+
+¤ Campylobacter Sebald and Véron 1963, genus. - Type species: Campylobacter fetus.
+
+¤ Campylobacter coli (Doyle 1948) Véron and Chatelain 1973, species. - Type strain: CIP 7080.
+
+¤ Campylobacter fetus (Smith and Taylor 1919) Sebald and Véron 1963, species. - Type strain: CIP 5396. 
+Note: Members of the Subcommittee on the taxonomy of Campylobacter and related bacteria had noted that the specific epithet fetus was erroneously formed. This required correction of the spelling of the epithet or, alternatively, correction of the etymology. The subcommittee members reached a consensus to correct the etymology of the specific epithet fetus. The correct etymology is: fe'tus. L. masc. n. fetus, fetus, fruit; L. gen. masc. n. fetus, of a fetus. - Reference: VANDAMME (P.) and ON (S.L.W.): Recommendations of the Subcommittee on the taxonomy of Campylobacter and related bacteria. Int. J. Syst. Evol. Microbiol. 2001, 51, 719-721.
+
+¤ Campylobacter fetus subsp. fetus (Smith and Taylor 1919) Véron and Chatelain 1973, subspecies. - Type strain: CIP 5396. 
+
+¤ Campylobacter fetus subsp. venerealis (Florent 1959) Véron and Chatelain 1973, subspecies. - Type strain: ATCC 19438. 
+
+¤ Campylobacter sputorum (Prévot 1940) Véron and Chatelain 1973, species. - Type strain: Forsyth ER33.
+
+¤ Campylobacter sputorum subsp. bubulus (Florent 1953) Véron and Chatelain 1973, subspecies. - Type strain: CIP 53.103. 
+Note: In the Approved Lists of Bacterial Names, the type strain CIP 53.103 is erroneously cited as CIP 53103.
+
+¤ Campylobacter sputorum subsp. sputorum (Prévot 1940) Véron and Chatelain 1973, subspecies. - Type strain: Forsyth ER33.
+
+¤ Capsularis Prévot 1938, genus. - Type species: Capsularis zoogleoformans corrig.
+
+¤ Capsularis zoogleoformans corrig. (Weinberg et al. 1937) Prévot 1938, species. - Type strain: VPI D28K-1. 
+
+¤ Cardiobacterium Slotnick and Dougherty 1964, genus. - Type species: Cardiobacterium hominis.
+
+¤ Cardiobacterium hominis Slotnick and Dougherty 1964, species. - Type strain: ATCC 15826.
+
+¤ Caryophanaceae Peshkoff 1939, familia. - Type genus: Caryophanon.
+
+¤ Caryophanales Peshkoff 1939, ordo. - Type genus: Caryophanon.
+
+¤ Caryophanon Peshkoff 1939, genus. - Type species: Caryophanon latum.
+
+¤ Caryophanon latum Peshkoff 1939, species. - Type strain: NCIB 9533.
+
+¤ Caseobacter Crombach 1978, genus. - Type species: Caseobacter polymorphus.
+
+¤ Caseobacter polymorphus Crombach 1978, species. - Type strain: LMD AC 256.
+
+¤ Caulobacter Henrici and Johnson 1935, genus. - Type species: Caulobacter vibrioides.
+
+¤ Caulobacter bacteroides Poindexter 1964, species. - Type strain: ATCC 15254.
+
+¤ Caulobacter crescentus Poindexter 1964, species. - Type strain: ATCC 15252.
+
+¤ Caulobacter fusiformis Poindexter 1964, species. - Type strain: ATCC 15257.
+
+¤ Caulobacter halobacteroides Poindexter 1964, species. - Type strain: ATCC 15269.
+
+¤ Caulobacter henricii Poindexter 1964, species. - Type strain: ATCC 15253.
+
+¤ Caulobacter intermedius Poindexter 1964, species. - Type strain: ATCC 15262.
+
