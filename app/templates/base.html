@@ -1,7 +1,7 @@
 {% extends 'bootstrap/base.html' %}
 {% block styles %}
 {{super()}}
-<link rel="stylesheet" href="{{url_for('.static', filename='mystyle_org_name.css')}}">
+<link rel="stylesheet" href="{{url_for('static', filename='mystyle_org_name.css')}}">
 {% endblock %}
 {% block navbar %}
 <!--NAVIGATION-->
@@ -62,11 +62,11 @@
 <div class="container">
 <div class="row">
   <div class="col-md-6">
-      <img src="{{url_for('.static', filename='logo.png')}}" alt="" class="img-fluid mb-3">
+      <img src="{{url_for('static', filename='logo.png')}}" alt="" class="img-fluid mb-3">
   </div>
   <div class="col-md-6">
       <h3>Support</h3>
-      <p>The project was supported by Russian Science Foundation.</p>
+      <p>The project was supported by <a href="http://rscf.ru/en/">Russian Science Foundation</a>.</p>
   </div>
 </div>
 </div>
