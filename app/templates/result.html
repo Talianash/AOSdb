@@ -1,3 +1,5 @@
     <tr valign="top">
-        <td><a class="organism" href="{{url_for('org_data', organism = res)}}">{{res.name}}</a></td><td>{{res.org_type}}</td><td>{{res.fof1_number}}</td><td>{{res.operon_number}}</td><td>{% if res.atpase != [] %} {{res.atpase[-1].subunit_list}} {% else %} None {% endif %}</td>
+        <td><a class="organism" href="{{url_for('org_data', organism = res)}}">{{res.name}}</a></td><td>{{res.org_type}}</td><td>{% if res.fof1_number == 1 %} F {% else %} F, N {% endif %} </td><td>{{res.operon_number}}</td><td>{% if res.atpase != [] %} {% for enz in res.atpase %}
+            
+        {% for op in enz.operon %}{{op.subunit_list}}; {% endfor %}{% endfor %}{% else %} None {% endif %}</td>
     </tr>

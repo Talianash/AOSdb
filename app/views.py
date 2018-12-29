@@ -9,7 +9,7 @@ from forms import SearchForm
 def index():
     form = SearchForm()
     if form.validate_on_submit():
-    	return redirect(url_for('search_results', query = form.search.data))	
+    	return redirect(url_for('search_results', query = '*' + form.search.data + '*', page=1))	
     return render_template('searchform.html', 
         title = 'The AOS database',
         form = form)
@@ -18,20 +18,12 @@ def index():
 def about():
     return render_template('about.html')
 
-@app.route('/search', methods = ['GET', 'POST'])
-def search():
-    form = SearchForm()
-    if form.validate_on_submit():
-    	return redirect(url_for('search_results', query = form.search.data))	
-    return render_template('searchform.html', 
-        title = 'Search',
-        form = form)
-
 from config import MAX_SEARCH_RESULTS
 
 @app.route('/search_results:<query>')
-def search_results(query):
-    results = Organism.query.whoosh_search(query, MAX_SEARCH_RESULTS).all()
+@app.route('/search_results:<query>:<page>')
+def search_results(query, page):
+    results = Organism.query.whoosh_search(query, 100).paginate(int(page), 25, False)
     return render_template('search_results.html',
         query = query,
         results = results)

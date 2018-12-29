@@ -10,7 +10,7 @@
 <table class="table">
     {% for j in org.atpase %}
 	<tr valign="top"> 
-    	<td>{{j.fof1_type}}</td><td>{% for u in j.operon %} operon {{u.operon_type}}; {% endfor %}</td><td>{{j.subunit_list}}</td>
+    	<td>{{j.fof1_type}}</td><td>{% for u in j.operon %} <a href="#{{u.enzyme.fof1_type}}_{{u.operon_number}}"> operon {{u.operon_number}} ({{u.operon_type}}) </a>; {% endfor %}</td><td>{{j.subunit_list}}</td>
 	</tr>
 	{% endfor%}
 </table>
@@ -19,8 +19,8 @@
 
 
 {% for i in org.operon %}
-<div class="inner-op-table col-md-10 mx-auto pb-3">
-	<h3>ATP-synthase type: {{i.enzyme.fof1_type}}, operon type: {{i.operon_type}}</h3>
+<div id = "{{i.enzyme.fof1_type}}_{{i.operon_number}}" class="inner-op-table col-md-10 mx-auto pb-3">
+	<h3>{{i.enzyme.fof1_type}}-type ATPase, operon {{i.operon_number}} ({{i.operon_type}})</h3>
 <table class="table">
 	<thead class="thead-dark">
 	<tr> 

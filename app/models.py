@@ -11,7 +11,7 @@ class Organism(db.Model):
     
     id = db.Column(db.Integer, primary_key = True)
     name = db.Column(db.String(64), index = True, unique = False)
-    org_id_ncbi = db.Column(db.String(50), unique = True)
+    strain = db.Column(db.String(64), index = True, unique = False)
     taxonomy = db.Column(db.String(120), unique = False)
     org_type = db.Column(db.String(20), unique = False)
     fof1_number = db.Column(db.Integer, default = 0, unique = False)
@@ -29,8 +29,6 @@ class ATPase(db.Model):
 	id = db.Column(db.Integer, primary_key = True)
 	source = db.Column(db.String(120), unique = False)
 	fof1_type = db.Column(db.String(20), unique = False)
-	subunit_list = db.Column(db.String(200), unique = False)
-	add_prot_list = db.Column(db.String(200), default = '', unique = False)
 	organism_id = db.Column(db.Integer, db.ForeignKey('organisms.id'))
 	operon = db.relationship('Operon', backref = 'enzyme')
 	
@@ -41,7 +39,10 @@ class ATPase(db.Model):
 
 class Operon(db.Model):
 	id = db.Column(db.Integer, primary_key = True)
-	operon_type = db.Column(db.String(50), default = 'not_stated', unique = False) #changed_V2
+	operon_type = db.Column(db.String(50), default = 'not_stated', unique = False)
+	operon_number = db.Column(db.Integer, unique = False)
+	subunit_list = db.Column(db.String(200), unique = False)
+	add_prot_list = db.Column(db.String(200), default = '', unique = False)
 	atpase_id = db.Column(db.Integer, db.ForeignKey('atpases.id'))
 	organism_id = db.Column(db.Integer, db.ForeignKey('organisms.id'))
 	sequence = db.relationship('Sequence', backref = 'operon', lazy = 'dynamic')

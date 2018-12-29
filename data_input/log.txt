@@ -1,154 +1,841 @@
------------------------Acidaminococcus intestini-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Aerococcus urinae-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Aminobacterium colombiense-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Anaerobaculum mobile-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Anaerococcus prevotii-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Archaeoglobus fulgidus-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Eubacterium limosum-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Fibrobacter succinogenes-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Finegoldia magna-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Gordonibacter pamelaeae-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Halalkalicoccus jeotgali-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Halanaerobium hydrogeniformans-----------------------
-Warning! Id is not stated
------------------------Haloarcula marismortui-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Halogeometricum borinquense-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Herminiimonas arsenicoxydans-----------------------
-Warning! Id is not stated
------------------------Meiothermus silvanus-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanocaldococcus jannaschii-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanocella arvoryzae-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanoregula formicica-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanospirillum hungatei-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanothermococcus okinawensis-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanothermus fervidus-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methanotorris igneus-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Methylophaga nitratireducenticrescens-----------------------
-Warning! Id is not stated
------------------------Modestobacter marinus-----------------------
-Warning! Id is not stated
------------------------Rhodanobacter denitrificans-----------------------
-Warning! Id is not stated
------------------------Simkania negevensis-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Sphaerochaeta pleomorpha-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Spirochaeta smaragdinae-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Sulfolobus solfataricus-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Tepidanaerobacter acetatoxydans-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Thermanaerovibrio acidaminovorans-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Thermovirga lienii-----------------------
-Warning! FoF1 type is not stated
-Warning! Operon number is not stated
-Warning! No subunits found
-Warning! Subunit names are not stated
------------------------Thiomonas arsenitoxydans-----------------------
-Warning! Id is not stated
------------------------Zobellia galactanivorans-----------------------
-Warning! Id is not stated
+Acidianus hospitalis	empty
+Acidilobus saccharovorans	empty
+Aciduliprofundum boonei	empty
+Aerococcus urinae	empty
+Aeropyrum pernix	empty
+Agrobacterium tumefaciens	empty
+Alistipes finegoldii	empty
+Aminobacterium colombiense	empty
+Anaerobaculum mobile	empty
+Anaerococcus prevotii	empty
+Archaeoglobus fulgidus	empty
+Aster yellows	empty
+Borrelia burgdorferi	empty
+Burkholderia cepacia	empty
+Caldisericum exile	empty
+Caldisphaera lagunensis	empty
+Caldivirga maquilingensis	empty
+Candidatus Arthromitus	empty
+Candidatus Caldiarchaeum	empty
+Candidatus Cloacimonas	empty
+Candidatus Hodgkinia	empty
+Candidatus Korarchaeum	empty
+Candidatus Methanomassiliicoccus	empty
+Candidatus Methanomethylophilus	empty
+Candidatus Moranella	empty
+Candidatus Nasuia	empty
+Candidatus Nitrosopumilus	empty
+Candidatus Nitrososphaera	empty
+Candidatus Phytoplasma	empty
+Candidatus Riesia	empty
+Candidatus Tremblaya	empty
+Candidatus Uzinura	empty
+Candidatus Zinderia	empty
+Cenarchaeum symbiosum	empty
+Chlamydia trachomatis	empty
+Chlamydophila pneumoniae	empty
+Deinococcus radiodurans	empty
+Desulfurococcus kamchatkensis	empty
+Ethanoligenens harbinense	empty
+Eubacterium limosum	empty
+Ferroglobus placidus	empty
+Ferroplasma acidarmanus	empty
+Fervidicoccus fontis	empty
+Fibrobacter succinogenes	empty
+Finegoldia magna	empty
+Fretibacterium fastidiosum	empty
+Halalkalicoccus jeotgali	empty
+Haloarcula marismortui	empty
+Halobacterium sp.	empty
+Haloferax volcanii	empty
+Halogeometricum borinquense	empty
+Halomicrobium mukohataei	empty
+Halopiger xanaduensis	empty
+Haloquadratum walsbyi	empty
+Halorhabdus tiamatea	empty
+Halorubrum lacusprofundi	empty
+Haloterrigena turkmenica	empty
+Halovivax ruber	empty
+Hyperthermus butylicus	empty
+Ignicoccus hospitalis	empty
+Ignisphaera aggregans	empty
+Marinithermus hydrothermalis	empty
+Meiothermus silvanus	empty
+Metallosphaera sedula	empty
+Methanobacterium lacus	empty
+Methanobrevibacter ruminantium	empty
+Methanocaldococcus jannaschii	empty
+Methanococcoides burtonii	empty
+Methanococcus maripaludis	empty
+Methanocorpusculum labreanum	empty
+Methanoculleus bourgensis	empty
+Methanohalobium evestigatum	empty
+Methanohalophilus mahii	empty
+Methanolobus psychrophilus	empty
+Methanomethylovorans hollandica	empty
+Methanoplanus petrolearius	empty
+Methanopyrus kandleri	empty
+Methanoregula formicica	empty
+Methanosaeta concilii	empty
+Methanosalsum zhilinae	empty
+Methanosphaera stadtmanae	empty
+Methanosphaerula palustris	empty
+Methanospirillum hungatei	empty
+Methanothermobacter thermautotrophicus	empty
+Methanothermococcus okinawensis	empty
+Methanothermus fervidus	empty
+Methanotorris igneus	empty
+Nanoarchaeum equitans	empty
+Natrialba magadii	empty
+Natrinema sp.	empty
+Natronobacterium gregoryi	empty
+Natronococcus occultus	empty
+Natronomonas pharaonis	empty
+Neisseria gonorrhoeae	empty
+Oceanithermus profundus	empty
+Onion yellows	empty
+Oscillibacter valericigenes	empty
+Pectobacterium carotovorum	empty
+Picrophilus torridus	empty
+Porphyromonas gingivalis	empty
+Pseudomonas syringae	empty
+Pyrobaculum aerophilum	empty
+Pyrococcus abyssi	empty
+Pyrococcus furiosus	empty
+Pyrolobus fumarii	empty
+Salinarchaeum sp.	empty
+Simkania negevensis	empty
+Sphaerochaeta pleomorpha	empty
+Spirochaeta smaragdinae	empty
+Staphylothermus hellenicus	empty
+Strawberry lethal	empty
+Sulfolobus acidocaldarius	empty
+Sulfolobus solfataricus	empty
+Tepidanaerobacter acetatoxydans	empty
+Thermanaerovibrio acidaminovorans	empty
+Thermococcus kodakarensis	empty
+Thermofilum sp.	empty
+Thermogladius cellulolyticus	empty
+Thermoplasma acidophilum	empty
+Thermoplasma volcanium	empty
+Thermoplasmatales archaeon	empty
+Thermoproteus tenax	empty
+Thermosphaera aggregans	empty
+Thermovirga lienii	empty
+Thermus thermophilus	empty
+Treponema pallidum	empty
+Truepera radiovictrix	empty
+Vulcanisaeta distributa	empty
+Acaryochloris marina	good
+Acetobacter pasteurianus	good
+Acetobacterium woodii	good
+Acetohalobium arabaticum	good
+Acholeplasma laidlawii	good
+Achromobacter xylosoxidans	good
+Acidaminococcus intestini	good
+Acidianus hospitalis	good
+Acidilobus saccharovorans	good
+Acidimicrobium ferrooxidans	good
+Acidiphilium multivorum	good
+Acidithiobacillus ferrooxidans	good
+Acidothermus cellulolyticus	good
+Acidovorax avenae	good
+Aciduliprofundum boonei	good
+Acinetobacter baumannii	good
+Actinobacillus suis	good
+Actinoplanes friuliensis	good
+Actinosynnema mirum	good
+Adlercreutzia equolifaciens	good
+Advenella kashmirensis	good
+Aequorivita sublithincola	good
+Aerococcus urinae	good
+Aeromonas salmonicida	good
+Aeropyrum pernix	good
+Aggregatibacter actinomycetemcomitans	good
+Agrobacterium fabrum	good
+Agrobacterium tumefaciens	good	Strain is not stated
+Akkermansia muciniphila	good
+Albidiferax ferrireducens	good
+Alcanivorax borkumensis	good
+Alicycliphilus denitrificans	good
+Alicyclobacillus acidocaldarius	good
+Aliivibrio salmonicida	good
+Alistipes finegoldii	good
+Alkalilimnicola ehrlichii	good
+Alkaliphilus metalliredigens	good
+Allochromatium vinosum	good
+Alteromonas sp.	good
+Aminobacterium colombiense	good
+Ammonifex degensii	good
+Amphibacillus xylanus	good
+Amycolatopsis mediterranei	good
+Amycolicicoccus subflavus	good
+Anabaena cylindrica	good
+Anaerobaculum mobile	good
+Anaerococcus prevotii	good
+Anaerolinea thermophila	good
+Anaeromyxobacter dehalogenans	good
+Anaplasma phagocytophilum	good
+Anoxybacillus flavithermus	good
+Aquifex aeolicus	good
+Arcanobacterium haemolyticum	good
+Archaeoglobus fulgidus	good
+Arcobacter nitrofigilis	good
+Aromatoleum aromaticum	good
+Arthrobacter chlorophenolicus	good
+Arthrospira platensis	good
+Aster yellows	good
+Asticcacaulis excentricus	good
+Atopobium parvulum	good
+Azoarcus sp.	good
+Azorhizobium caulinodans	good
+Azospirillum brasilense	good
+Azotobacter vinelandii	good
+Bacillus anthracis	good
+Bacillus halodurans	good
+Bacillus subtilis	good
+Bacillus thuringiensis	good
+Bacteriovorax marinus	good
+Bacteroides thetaiotaomicron	good
+Bartonella quintana	good
+Baumannia cicadellinicola	good
+Bdellovibrio bacteriovorus	good
+Beijerinckia indica	good
+Belliella baltica	good
+Beutenbergia cavernae	good
+Bibersteinia trehalosi	good
+Bifidobacterium longum	good
+Blastococcus saxobsidens	good
+Blattabacterium sp.	good
+Bordetella petrii	good
+Borrelia burgdorferi	good
+Brachybacterium faecium	good
+Brachyspira intermedia	good
+Bradyrhizobium japonicum	good
+Bradyrhizobium oligotrophicum	good
+Brevibacillus brevis	good
+Brevundimonas subvibrioides	good
+Brucella melitensis	good
+Buchnera aphidicola	good
+Burkholderia cepacia	good
+Burkholderia xenovorans	good
+Butyrivibrio proteoclasticus	good
+Caldicellulosiruptor saccharolyticus	good
+Caldilinea aerophila	good
+Caldisericum exile	good
+Caldisphaera lagunensis	good
+Calditerrivibrio nitroreducens	good
+Caldivirga maquilingensis	good
+Calothrix sp.	good
+Campylobacter jejuni	good
+Candidatus Accumulibacter	good
+Candidatus Amoebophilus	good
+Candidatus Arthromitus	good
+Candidatus Azobacteroides	good
+Candidatus Blochmannia	good
+Candidatus Caldiarchaeum	good
+Candidatus Carsonella	good
+Candidatus Chloracidobacterium	good
+Candidatus Cloacimonas	good
+Candidatus Desulforudis	good
+Candidatus Endolissoclinum	good
+Candidatus Hamiltonella	good
+Candidatus Hodgkinia	good
+Candidatus Kinetoplastibacterium	good
+Candidatus Korarchaeum	good
+Candidatus Koribacter	good
+Candidatus Liberibacter	good
+Candidatus Methanomassiliicoccus	good
+Candidatus Methanomethylophilus	good
+Candidatus Methylomirabilis	good
+Candidatus Midichloria	good
+Candidatus Moranella	good
+Candidatus Nasuia	good
+Candidatus Nitrosopumilus	good
+Candidatus Nitrososphaera	good
+Candidatus Nitrospira	good
+Candidatus Pelagibacter	good
+Candidatus Phytoplasma	good
+Candidatus Portiera	good
+Candidatus Profftella	good
+Candidatus Protochlamydia	good
+Candidatus Puniceispirillum	good
+Candidatus Riesia	good
+Candidatus Ruthia	good
+Candidatus Saccharibacteria	good
+Candidatus Saccharimonas	good
+Candidatus Solibacter	good
+Candidatus Sulcia	good
+Candidatus Symbiobacter	good
+Candidatus Tremblaya	good
+Candidatus Uzinura	good
+Candidatus Vesicomyosocius	good
+Candidatus Zinderia	good
+Capnocytophaga canimorsus	good
+Carboxydothermus hydrogenoformans	good
+Cardinium endosymbiont	good
+Carnobacterium maltaromaticum	good
+Catenulispora acidiphila	good
+Caulobacter crescentus	good
+Cellulomonas fimi	good
+Cellulophaga algicola	good
+Cellvibrio japonicus	good
+Cenarchaeum symbiosum	good
+Chamaesiphon minutus	good
+Chelativorans sp.	good
+Chitinophaga pinensis	good
+Chlamydia trachomatis	good
+Chlamydophila pneumoniae	good
+Chlorobaculum parvum	good
+Chlorobium tepidum	good
+Chloroflexus aggregans	good
+Chloroherpeton thalassium	good
+Chromobacterium violaceum	good
+Chromohalobacter salexigens	good
+Chroococcidiopsis thermalis	good
+Chthonomonas calidirosea	good
+Citrobacter koseri	good
+Clavibacter michiganensis	good
+Clostridiales genomosp.	good
+Clostridium acetobutylicum	good
+Clostridium botulinum	good
+Collimonas fungivorans	good
+Colwellia psychrerythraea	good
+Comamonas testosteroni	good
+Conexibacter woesei	good
+Coprococcus catus	good
+Coprothermobacter proteolyticus	good
+Coraliomargarita akajimensis	good
+Corallococcus coralloides	good
+Coriobacterium glomerans	good
+Corynebacterium glutamicum	good
+Coxiella burnetii	good
+Crinalium epipsammum	good
+Croceibacter atlanticus	good
+Cronobacter turicensis	good
+Cryptobacterium curtum	good
+Cupriavidus necator	good
+Cyanobacterium aponinum	good
+Cyanobium gracile	good
+Cyanothece sp.	good
+Cyclobacterium marinum	good
+Cycloclasticus zancles	good
+Cylindrospermum stagnale	good
+Cytophaga hutchinsonii	good
+Dactylococcopsis salina	good
+Dechloromonas aromatica	good
+Dechlorosoma suillum	good
+Deferribacter desulfuricans	good
+Dehalobacter sp.	good
+Dehalococcoides mccartyi	good
+Dehalogenimonas lykanthroporepellens	good
+Deinococcus radiodurans	good
+Delftia acidovorans	good
+Denitrovibrio acetiphilus	good
+Desulfarculus baarsii	good
+Desulfatibacillum alkenivorans	good
+Desulfitobacterium hafniense	good
+Desulfobacca acetoxidans	good
+Desulfobacterium autotrophicum	good
+Desulfobacula toluolica	good
+Desulfobulbus propionicus	good
+Desulfocapsa sulfexigens	good
+Desulfococcus oleovorans	good
+Desulfohalobium retbaense	good
+Desulfomicrobium baculatum	good
+Desulfomonile tiedjei	good
+Desulfosporosinus orientis	good
+Desulfotalea psychrophila	good
+Desulfotomaculum gibsoniae	good
+Desulfovibrio vulgaris	good
+Desulfurispirillum indicum	good
+Desulfurivibrio alkaliphilus	good
+Desulfurobacterium thermolithotrophum	good
+Desulfurococcus kamchatkensis	good
+Dichelobacter nodosus	good
+Dickeya dadantii	good
+Dictyoglomus thermophilum	good
+Dinoroseobacter shibae	good
+Dokdonia sp.	good
+Dyadobacter fermentans	good
+Echinicola vietnamensis	good
+Edwardsiella ictaluri	good
+Eggerthella lenta	good
+Ehrlichia chaffeensis	good
+Elusimicrobium minutum	good
+Emticicia oligotrophica	good
+Enterobacter cloacae	good
+Enterococcus faecalis	good
+Erwinia amylovora	good
+Erysipelothrix rhusiopathiae	good
+Erythrobacter litoralis	good
+Escherichia coli	good
+Ethanoligenens harbinense	good
+Eubacterium limosum	good
+Exiguobacterium sp.	good
+Faecalibacterium prausnitzii	good
+Ferrimonas balearica	good
+Ferroglobus placidus	good
+Ferroplasma acidarmanus	good
+Fervidicoccus fontis	good
+Fervidobacterium pennivorans	good
+Fibrella aestuarina	good
+Fibrobacter succinogenes	good
+Filifactor alocis	good
+Finegoldia magna	good
+Flavobacterium johnsoniae	good
+Flexibacter litoralis	good
+Flexistipes sinusarabici	good
+Fluviicola taffensis	good
+Francisella tularensis	good
+Frankia sp.	good
+Frankia symbiont	good
+Frateuria aurantia	good
+Fretibacterium fastidiosum	good	Strain is not stated
+Fusobacterium nucleatum	good
+Gallibacterium anatis	good
+Gallionella capsiferriformans	good
+Gardnerella vaginalis	good
+Geitlerinema sp.	good
+Gemmatimonas aurantiaca	good
+Geobacillus thermoleovorans	good
+Geobacter metallireducens	good
+Geodermatophilus obscurus	good
+Glaciecola psychrophila	good
+Gloeobacter violaceus	good
+Gloeocapsa sp.	good
+Gluconacetobacter diazotrophicus	good
+Gluconobacter oxydans	good
+Gordonia sp.	good
+Gordonibacter pamelaeae	good
+Gramella forsetii	good
+Granulibacter bethesdensis	good
+Granulicella mallensis	good
+Granulicella tundricola	good
+Haemophilus influenzae	good
+Hahella chejuensis	good
+Halalkalicoccus jeotgali	good
+Halanaerobium hydrogeniformans	good	Strain is not stated
+Haliangium ochraceum	good
+Haliscomenobacter hydrossis	good
+Haloarcula marismortui	good
+Halobacillus halophilus	good
+Halobacterium sp.	good
+Halobacteroides halobius	good
+Haloferax volcanii	good
+Halogeometricum borinquense	good
+Halomicrobium mukohataei	good
+Halomonas elongata	good
+Halopiger xanaduensis	good
+Haloquadratum walsbyi	good
+Halorhabdus tiamatea	good
+Halorhodospira halophila	good
+Halorubrum lacusprofundi	good
+Haloterrigena turkmenica	good
+Halothece sp.	good
+Halothermothrix orenii	good
+Halothiobacillus neapolitanus	good
+Halovivax ruber	good
+Halyomorpha halys	good
+Helicobacter pylori	good
+Heliobacterium modesticaldum	good
+Herbaspirillum seropedicae	good
+Herminiimonas arsenicoxydans	good	Strain is not stated
+Herpetosiphon aurantiacus	good
+Hippea maritima	good
+Hirschia baltica	good
+Hydrogenobacter thermophilus	good
+Hydrogenobaculum sp.	good
+Hyperthermus butylicus	good
+Hyphomicrobium sp.	good
+Hyphomonas neptunium	good
+Idiomarina loihiensis	good
+Ignavibacterium album	good
+Ignicoccus hospitalis	good
+Ignisphaera aggregans	good
+Ilumatobacter coccineus	good
+Ilyobacter polytropus	good
+Intrasporangium calvum	good
+Isoptericola variabilis	good
+Isosphaera pallida	good
+Jannaschia sp.	good
+Janthinobacterium sp.	good
+Jonesia denitrificans	good
+Kangiella koreensis	good
+Ketogulonicigenium vulgare	good
+Kineococcus radiotolerans	good
+Kitasatospora setae	good
+Klebsiella pneumoniae	good
+Kocuria rhizophila	good
+Kosmotoga olearia	good
+Kribbella flavida	good
+Kyrpidia tusciae	good
+Kytococcus sedentarius	good
+Lacinutrix sp.	good
+Lactobacillus plantarum	good
+Lactococcus lactis	good
+Laribacter hongkongensis	good
+Lawsonia intracellularis	good
+Leadbetterella byssophila	good
+Legionella pneumophila	good
+Leifsonia xyli	good
+Leisingera methylohalidivorans	good
+Leptolyngbya sp.	good
+Leptospira biflexa	good
+Leptospirillum ferriphilum	good
+Leptothrix cholodnii	good
+Leptotrichia buccalis	good
+Leuconostoc kimchii	good
+Listeria innocua	good
+Listonella anguillarum	good
+Lysinibacillus sphaericus	good
+Macrococcus caseolyticus	good
+Magnetococcus marinus	good
+Magnetospirillum magneticum	good
+Mahella australiensis	good
+Mannheimia haemolytica	good
+Maricaulis maris	good
+Marinithermus hydrothermalis	good
+Marinitoga piezophila	good
+Marinobacter adhaerens	good
+Marinomonas sp.	good
+Marivirga tractuosa	good
+Megamonas hypermegale	good
+Megasphaera elsdenii	good
+Meiothermus silvanus	good
+Melioribacter roseus	good
+Melissococcus plutonius	good
+Mesoplasma florum	good
+Mesorhizobium loti	good
+Mesotoga prima	good
+Metallosphaera sedula	good
+Methanobacterium lacus	good	Strain is not stated
+Methanobrevibacter ruminantium	good
+Methanocaldococcus jannaschii	good
+Methanocella arvoryzae	good
+Methanococcoides burtonii	good
+Methanococcus maripaludis	good
+Methanocorpusculum labreanum	good
+Methanoculleus bourgensis	good
+Methanohalobium evestigatum	good
+Methanohalophilus mahii	good
+Methanolobus psychrophilus	good
+Methanomethylovorans hollandica	good
+Methanoplanus petrolearius	good
+Methanopyrus kandleri	good
+Methanoregula formicica	good
+Methanosaeta concilii	good
+Methanosalsum zhilinae	good
+Methanosarcina acetivorans	good
+Methanosphaera stadtmanae	good
+Methanosphaerula palustris	good
+Methanospirillum hungatei	good
+Methanothermobacter thermautotrophicus	good
+Methanothermococcus okinawensis	good
+Methanothermus fervidus	good
+Methanotorris igneus	good
+Methylacidiphilum infernorum	good
+Methylibium petroleiphilum	good
+Methylobacillus flagellatus	good
+Methylobacterium nodulans	good
+Methylocella silvestris	good
+Methylococcus capsulatus	good
+Methylocystis sp.	good
+Methylomicrobium alcaliphilum	good
+Methylomonas methanica	good
+Methylophaga nitratireducenticrescens	good	Strain is not stated
+Methylotenera versatilis	good
+Methylovorus glucosetrophus	good
+Micavibrio aeruginosavorus	good
+Microbacterium testaceum	good
+Micrococcus luteus	good
+Microcoleus sp.	good
+Microcystis aeruginosa	good
+Microlunatus phosphovorus	good
+Micromonospora aurantiaca	good
+Mobiluncus curtisii	good
+Modestobacter marinus	good	Strain is not stated
+Moorella thermoacetica	good
+Moraxella catarrhalis	good
+Morganella morganii	good
+Muricauda ruestringensis	good
+Mycobacterium leprae	good
+Mycobacterium tuberculosis	good
+Mycoplasma genitalium	good
+Mycoplasma pneumoniae	good
+Myxococcus xanthus	good
+Nakamurella multipartita	good
+Nanoarchaeum equitans	good
+Natranaerobius thermophilus	good
+Natrialba magadii	good
+Natrinema sp.	good
+Natronobacterium gregoryi	good
+Natronococcus occultus	good
+Natronomonas pharaonis	good
+Nautilia profundicola	good
+Neisseria gonorrhoeae	good	Strain is not stated
+Neisseria meningitidis	good
+Neorickettsia sennetsu	good
+Niastella koreensis	good
+Nitratifractor salsuginis	good
+Nitratiruptor sp.	good
+Nitrobacter hamburgensis	good
+Nitrosococcus halophilus	good
+Nitrosomonas sp.	good
+Nitrosospira multiformis	good
+Nocardia brasiliensis	good
+Nocardioides sp.	good
+Nocardiopsis alba	good
+Nonlabens dokdonensis	good
+Nostoc punctiforme	good
+Nostoc sp.	good
+Novosphingobium sp.	good
+Oceanimonas sp.	good
+Oceanithermus profundus	good
+Oceanobacillus iheyensis	good
+Ochrobactrum anthropi	good
+Octadecabacter arcticus	good
+Odoribacter splanchnicus	good
+Oenococcus oeni	good
+Oligotropha carboxidovorans	good
+Olsenella uli	good
+Onion yellows	good
+Opitutus terrae	good
+Orientia tsutsugamushi	good
+Ornithobacterium rhinotracheale	good
+Oscillatoria nigro-viridis	good
+Oscillibacter valericigenes	good
+Owenweeksia hongkongensis	good
+Paenibacillus mucilaginosus	good
+Paludibacter propionicigenes	good
+Pandoraea pnomenusa	good
+Pantoea sp.	good
+Parabacteroides distasonis	good
+Parachlamydia acanthamoebae	good
+Paracoccus denitrificans	good
+Parvibaculum lavamentivorans	good
+Parvularcula bermudensis	good
+Pasteurella multocida	good
+Pectobacterium carotovorum	good	Strain is not stated
+Pectobacterium sp.	good
+Pediococcus claussenii	good
+Pedobacter heparinus	good
+Pelagibacterium halotolerans	good
+Pelobacter propionicus	good
+Pelodictyon phaeoclathratiforme	good
+Pelotomaculum thermopropionicum	good
+Peptoclostridium difficile	good
+Persephonella marina	good
+Petrotoga mobilis	good
+Phaeobacter gallaeciensis	good
+Phenylobacterium zucineum	good
+Photobacterium profundum	good
+Photorhabdus luminescens	good
+Phycisphaera mikurensis	good
+Picrophilus torridus	good
+Pirellula staleyi	good
+Planctomyces brasiliensis	good
+Pleurocapsa sp.	good
+Polaribacter sp.	good
+Polaromonas sp.	good
+Polymorphum gilvum	good
+Polynucleobacter necessarius	good
+Porphyromonas gingivalis	good
+Prevotella ruminicola	good
+Prochlorococcus marinus	good
+Propionibacterium acidipropionici	good
+Prosthecochloris aestuarii	good
+Proteus mirabilis	good
+Providencia stuartii	good
+Pseudanabaena sp.	good
+Pseudoalteromonas atlantica	good
+Pseudogulbenkiania sp.	good
+Pseudomonas aeruginosa	good
+Pseudomonas syringae	good
+Pseudonocardia dioxanivorans	good
+Pseudovibrio sp.	good
+Pseudoxanthomonas spadix	good
+Psychrobacter sp.	good
+Psychroflexus torquis	good
+Psychromonas ingrahamii	good
+Pusillimonas sp.	good
+Pyrobaculum aerophilum	good
+Pyrococcus abyssi	good
+Pyrococcus furiosus	good
+Pyrolobus fumarii	good
+Rahnella sp.	good
+Ralstonia solanacearum	good
+Ramlibacter tataouinensis	good
+Raoultella ornithinolytica	good
+Renibacterium salmoninarum	good
+Rhizobium leguminosarum	good
+Rhodanobacter denitrificans	good	Strain is not stated
+Rhodobacter sphaeroides	good
+Rhodococcus jostii	good
+Rhodomicrobium vannielii	good
+Rhodopirellula baltica	good
+Rhodopseudomonas palustris	good
+Rhodospirillum centenum	good
+Rhodothermus marinus	good
+Rickettsia conorii	good
+Rickettsia prowazekii	good
+Riemerella anatipestifer	good
+Rivularia sp.	good
+Robiginitalea biformata	good
+Roseburia intestinalis	good
+Roseiflexus sp.	good
+Roseobacter litoralis	good
+Rothia dentocariosa	good
+Rubrivivax gelatinosus	good
+Rubrobacter xylanophilus	good
+Ruegeria pomeroyi	good
+Ruminococcus albus	good
+Runella slithyformis	good
+Saccharomonospora viridis	good
+Saccharophagus degradans	good
+Saccharopolyspora erythraea	good
+Saccharothrix espanaensis	good
+Salinarchaeum sp.	good
+Salinibacter ruber	good
+Salinispora arenicola	good
+Salmonella enterica	good
+Sanguibacter keddieii	good
+Saprospira grandis	good
+Sebaldella termitidis	good
+Segniliparus rotundus	good
+Selenomonas ruminantium	good
+Serratia plymuthica	good
+Shewanella oneidensis	good
+Shigella dysenteriae	good
+Sideroxydans lithotrophicus	good
+Simiduia agarivorans	good
+Simkania negevensis	good
+Singulisphaera acidiphila	good
+Sinorhizobium meliloti	good
+Slackia heliotrinireducens	good
+Sodalis glossinidius	good
+Solibacillus silvestris	good
+Solitalea canadensis	good
+Sorangium cellulosum	good
+Sphaerobacter thermophilus	good
+Sphaerochaeta pleomorpha	good
+Sphingobacterium sp.	good
+Sphingobium japonicum	good
+Sphingomonas wittichii	good
+Sphingopyxis alaskensis	good
+Spiribacter salinus	good
+Spiribacter sp.	good
+Spirochaeta smaragdinae	good
+Spiroplasma chrysopicola	good
+Spirosoma linguale	good
+Stackebrandtia nassauensis	good
+Stanieria cyanosphaera	good
+Staphylococcus aureus	good
+Staphylothermus hellenicus	good
+Starkeya novella	good
+Stenotrophomonas maltophilia	good
+Stigmatella aurantiaca	good
+Strawberry lethal	good
+Streptobacillus moniliformis	good
+Streptococcus pneumoniae	good
+Streptococcus pyogenes	good
+Streptomyces bingchenggensis	good
+Streptosporangium roseum	good
+Sulfobacillus acidophilus	good
+Sulfolobus acidocaldarius	good
+Sulfolobus solfataricus	good
+Sulfuricella denitrificans	good
+Sulfuricurvum kujiense	good
+Sulfurihydrogenibium azorense	good
+Sulfurimonas autotrophica	good
+Sulfurospirillum barnesii	good
+Sulfurovum sp.	good
+Symbiobacterium thermophilum	good
+Synechococcus sp.	good
+Synechocystis sp.	good
+Syntrophobacter fumaroxidans	good
+Syntrophobotulus glycolicus	good
+Syntrophomonas wolfei	good
+Syntrophothermus lipocalidus	good
+Syntrophus aciditrophicus	good
+Tannerella forsythia	good
+Taylorella equigenitalis	good
+Tepidanaerobacter acetatoxydans	good
+Teredinibacter turnerae	good
+Terriglobus roseus	good
+Tetragenococcus halophilus	good
+Thalassolituus oleivorans	good
+Thauera sp.	good
+Thermacetogenium phaeum	good
+Thermaerobacter marianensis	good
+Thermanaerovibrio acidaminovorans	good
+Thermincola potens	good
+Thermoanaerobacter tengcongensis	good
+Thermoanaerobacterium thermosaccharolyticum	good
+Thermobacillus composti	good
+Thermobaculum terrenum	good
+Thermobifida fusca	good
+Thermobispora bispora	good
+Thermococcus kodakarensis	good
+Thermocrinis albus	good
+Thermodesulfatator indicus	good
+Thermodesulfobacterium geofontis	good
+Thermodesulfobium narugense	good
+Thermodesulfovibrio yellowstonii	good
+Thermofilum sp.	good
+Thermogladius cellulolyticus	good
+Thermomicrobium roseum	good
+Thermomonospora curvata	good
+Thermoplasma acidophilum	good
+Thermoplasma volcanium	good
+Thermoplasmatales archaeon	good
+Thermoproteus tenax	good
+Thermosediminibacter oceani	good
+Thermosipho africanus	good
+Thermosphaera aggregans	good
+Thermosynechococcus elongatus	good
+Thermotoga maritima	good
+Thermovibrio ammonificans	good
+Thermovirga lienii	good
+Thermus thermophilus	good
+Thioalkalimicrobium cyclicum	good
+Thioalkalivibrio nitratireducens	good
+Thiobacillus denitrificans	good
+Thiocystis violascens	good
+Thioflavicoccus mobilis	good
+Thiomicrospira crunogena	good
+Thiomonas arsenitoxydans	good	Strain is not stated
+Tistrella mobilis	good
+Tolumonas auensis	good
+Treponema pallidum	good
+Trichodesmium erythraeum	good
+Tropheryma whipplei	good
+Truepera radiovictrix	good
+Tsukamurella paurometabola	good
+Turneriella parva	good
+Ureaplasma parvum	good
+Variovorax paradoxus	good
+Veillonella parvula	good
+Verminephrobacter eiseniae	good
+Verrucosispora maris	good
+Vibrio cholerae	good
+Vulcanisaeta distributa	good
+Waddlia chondrophila	good
+Weeksella virosa	good
+Weissella koreensis	good
+Wigglesworthia glossinidia	good
+Wolbachia endosymbiont	good
+Wolbachia sp.	good
+Wolinella succinogenes	good
+Xanthobacter autotrophicus	good
+Xanthomonas oryzae	good
+Xenorhabdus nematophila	good
+Xylanimonas cellulosilytica	good
+Xylella fastidiosa	good
+Yersinia pestis	good
+Zobellia galactanivorans	good	Strain is not stated
+Zunongwangia profunda	good
+Zymomonas mobilis	good
+candidate division	good
+secondary endosymbiont	good
+uncultured Termite	good
